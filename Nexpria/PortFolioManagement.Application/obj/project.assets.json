@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "0_FrameWork/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/0_FrameWork.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/0_FrameWork.dll": {}
+        }
+      },
+      "PortFolioManagement.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "0_FrameWork": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PortFolioManagement.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PortFolioManagement.Application.Contracts.dll": {}
+        }
+      },
+      "PortFolioManagement.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "0_FrameWork": "1.0.0",
+          "PortFolioManagement.Application.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PortFolioManagement.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PortFolioManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0_FrameWork/1.0.0": {
+      "type": "project",
+      "path": "../0_FrameWork/0_FrameWork.csproj",
+      "msbuildProject": "../0_FrameWork/0_FrameWork.csproj"
+    },
+    "PortFolioManagement.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../PortFolioManagement.Application.Contracts/PortFolioManagement.Application.Contracts.csproj",
+      "msbuildProject": "../PortFolioManagement.Application.Contracts/PortFolioManagement.Application.Contracts.csproj"
+    },
+    "PortFolioManagement.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PortFolioManagement.Domain/PortFolioManagement.Domain.csproj",
+      "msbuildProject": "../PortFolioManagement.Domain/PortFolioManagement.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "PortFolioManagement.Application.Contracts >= 1.0.0",
+      "PortFolioManagement.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mostafa Abedi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Application\\PortFolioManagement.Application.csproj",
+      "projectName": "PortFolioManagement.Application",
+      "projectPath": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Application\\PortFolioManagement.Application.csproj",
+      "packagesPath": "C:\\Users\\Mostafa Abedi\\.nuget\\packages\\",
+      "outputPath": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Mostafa Abedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Application.Contracts\\PortFolioManagement.Application.Contracts.csproj": {
+              "projectPath": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Application.Contracts\\PortFolioManagement.Application.Contracts.csproj"
+            },
+            "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Domain\\PortFolioManagement.Domain.csproj": {
+              "projectPath": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Domain\\PortFolioManagement.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

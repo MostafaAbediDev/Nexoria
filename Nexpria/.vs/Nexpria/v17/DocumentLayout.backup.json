@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nexoria\\Code\\Nexpria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D7BC0E-1F3B-4669-A393-CBE7148DA388}|PortFolioManagement.Infrastructure.EFCore\\PortFolioManagement.Infrastructure.EFCore.csproj|d:\\nexoria\\code\\nexpria\\portfoliomanagement.infrastructure.efcore\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D7BC0E-1F3B-4669-A393-CBE7148DA388}|PortFolioManagement.Infrastructure.EFCore\\PortFolioManagement.Infrastructure.EFCore.csproj|solutionrelative:portfoliomanagement.infrastructure.efcore\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8180852C-5D61-4D89-B8EF-32A00B35D932}|PortFolioManagement.Domain\\PortFolioManagement.Domain.csproj|d:\\nexoria\\code\\nexpria\\portfoliomanagement.domain\\portfoliocategoryagg\\iportfoliocategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8180852C-5D61-4D89-B8EF-32A00B35D932}|PortFolioManagement.Domain\\PortFolioManagement.Domain.csproj|solutionrelative:portfoliomanagement.domain\\portfoliocategoryagg\\iportfoliocategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PortFolioContext.cs",
+              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Infrastructure.EFCore\\PortFolioContext.cs",
+              "RelativeDocumentMoniker": "PortFolioManagement.Infrastructure.EFCore\\PortFolioContext.cs",
+              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Infrastructure.EFCore\\PortFolioContext.cs",
+              "RelativeToolTip": "PortFolioManagement.Infrastructure.EFCore\\PortFolioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:48:09.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPortFolioCategoryRepository.cs",
+              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Domain\\PortFolioCategoryAgg\\IPortFolioCategoryRepository.cs",
+              "RelativeDocumentMoniker": "PortFolioManagement.Domain\\PortFolioCategoryAgg\\IPortFolioCategoryRepository.cs",
+              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Domain\\PortFolioCategoryAgg\\IPortFolioCategoryRepository.cs",
+              "RelativeToolTip": "PortFolioManagement.Domain\\PortFolioCategoryAgg\\IPortFolioCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:47:23.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
