@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Nexoria\\Code\\Nexpria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88D7BC0E-1F3B-4669-A393-CBE7148DA388}|PortFolioManagement.Infrastructure.EFCore\\PortFolioManagement.Infrastructure.EFCore.csproj|d:\\nexoria\\code\\nexpria\\portfoliomanagement.infrastructure.efcore\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88D7BC0E-1F3B-4669-A393-CBE7148DA388}|PortFolioManagement.Infrastructure.EFCore\\PortFolioManagement.Infrastructure.EFCore.csproj|solutionrelative:portfoliomanagement.infrastructure.efcore\\portfoliocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8180852C-5D61-4D89-B8EF-32A00B35D932}|PortFolioManagement.Domain\\PortFolioManagement.Domain.csproj|d:\\nexoria\\code\\nexpria\\portfoliomanagement.domain\\portfoliocategoryagg\\iportfoliocategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8180852C-5D61-4D89-B8EF-32A00B35D932}|PortFolioManagement.Domain\\PortFolioManagement.Domain.csproj|solutionrelative:portfoliomanagement.domain\\portfoliocategoryagg\\iportfoliocategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PortFolioContext.cs",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Infrastructure.EFCore\\PortFolioContext.cs",
-              "RelativeDocumentMoniker": "PortFolioManagement.Infrastructure.EFCore\\PortFolioContext.cs",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Infrastructure.EFCore\\PortFolioContext.cs",
-              "RelativeToolTip": "PortFolioManagement.Infrastructure.EFCore\\PortFolioContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T14:48:09.281Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "ServiceHost\\Pages\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T12:15:52.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IPortFolioCategoryRepository.cs",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Domain\\PortFolioCategoryAgg\\IPortFolioCategoryRepository.cs",
-              "RelativeDocumentMoniker": "PortFolioManagement.Domain\\PortFolioCategoryAgg\\IPortFolioCategoryRepository.cs",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Domain\\PortFolioCategoryAgg\\IPortFolioCategoryRepository.cs",
-              "RelativeToolTip": "PortFolioManagement.Domain\\PortFolioCategoryAgg\\IPortFolioCategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T14:47:23.954Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T12:12:31.281Z",
               "EditorCaption": ""
             }
           ]

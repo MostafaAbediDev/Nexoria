@@ -7,6 +7,6 @@ namespace PortFolioManagement.Domain.PortFolioCategoryAgg
     {
         EditPortFolioCategory GetDetails(long id);
         List<PortFolioCategoryViewModel> Search(PortFolioCategorySearchModel searchModel);
-        List<PortFolioCategoryViewModel> GetPortFolioCategory();
+        List<PortFolioCategoryViewModel> GetPortFolioCategories();
     }
 }

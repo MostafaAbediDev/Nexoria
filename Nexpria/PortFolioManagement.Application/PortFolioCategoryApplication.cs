@@ -21,8 +21,8 @@ namespace PortFolioManagement.Application
 
             var slug = command.Slug.Slugify();
 
-            var portFolioCategory = new PortFolioCategory(command.Name, command.Picture, command.Description,
-                command.PictureAlt, command.PictureTitle, command.Keywords, command.MetaDescription, slug);
+            var portFolioCategory = new PortFolioCategory(command.Name, command.Description
+            , command.Keywords, command.MetaDescription, slug);
 
             _portFolioCategoryRepository.Create(portFolioCategory);
             _portFolioCategoryRepository.SaveChanges();
@@ -38,14 +38,12 @@ namespace PortFolioManagement.Application
             if (portFolioCategory == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
-            if (_portFolioCategoryRepository.Exists(x => x.Name == command.Name && x.Id == command.Id))
+            if (_portFolioCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
 
-            portFolioCategory.Edit(command.Name, command.Description,
-                command.Picture, command.PictureAlt, command.PictureTitle, command.Keywords,
-                command.MetaDescription, slug);
+            portFolioCategory.Edit(command.Name, command.Description, command.Keywords, command.MetaDescription, slug);
 
             _portFolioCategoryRepository.SaveChanges();
             return operation.Succedded();
@@ -56,9 +54,9 @@ namespace PortFolioManagement.Application
             return _portFolioCategoryRepository.GetDetails(id);
         }
 
-        public List<PortFolioCategoryViewModel> GetPortFolioCategory()
+        public List<PortFolioCategoryViewModel> GetPortFolioCategories()
         {
-            return _portFolioCategoryRepository.GetPortFolioCategory();
+            return _portFolioCategoryRepository.GetPortFolioCategories();
         }
 
         public List<PortFolioCategoryViewModel> Search(PortFolioCategorySearchModel searchModel)

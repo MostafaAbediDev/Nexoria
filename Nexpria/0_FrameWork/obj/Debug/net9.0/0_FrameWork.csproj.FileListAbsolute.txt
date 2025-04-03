@@ -1,0 +1,13 @@
+D:\Nexoria\Code\Nexpria\0_FrameWork\bin\Debug\net9.0\0_FrameWork.deps.json
+D:\Nexoria\Code\Nexpria\0_FrameWork\bin\Debug\net9.0\0_FrameWork.dll
+D:\Nexoria\Code\Nexpria\0_FrameWork\bin\Debug\net9.0\0_FrameWork.pdb
+D:\Nexoria\Code\Nexpria\0_FrameWork\obj\Debug\net9.0\0_FrameWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nexoria\Code\Nexpria\0_FrameWork\obj\Debug\net9.0\0_FrameWork.AssemblyInfoInputs.cache
+D:\Nexoria\Code\Nexpria\0_FrameWork\obj\Debug\net9.0\0_FrameWork.AssemblyInfo.cs
+D:\Nexoria\Code\Nexpria\0_FrameWork\obj\Debug\net9.0\0_FrameWork.csproj.CoreCompileInputs.cache
+D:\Nexoria\Code\Nexpria\0_FrameWork\obj\Debug\net9.0\0_FrameWork.sourcelink.json
+D:\Nexoria\Code\Nexpria\0_FrameWork\obj\Debug\net9.0\0_FrameWork.dll
+D:\Nexoria\Code\Nexpria\0_FrameWork\obj\Debug\net9.0\refint\0_FrameWork.dll
+D:\Nexoria\Code\Nexpria\0_FrameWork\obj\Debug\net9.0\0_FrameWork.pdb
+D:\Nexoria\Code\Nexpria\0_FrameWork\obj\Debug\net9.0\ref\0_FrameWork.dll
+D:\Nexoria\Code\Nexpria\0_FrameWork\obj\Debug\net9.0\0_FrameWork.csproj.AssemblyReference.cache

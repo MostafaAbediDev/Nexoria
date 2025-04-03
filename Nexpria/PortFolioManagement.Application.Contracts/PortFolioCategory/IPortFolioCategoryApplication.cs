@@ -1,4 +1,5 @@
 ﻿using _0_Framework.Application;
+using System.Collections.Generic;
 
 namespace PortFolioManagement.Application.Contracts.PortFolioCategory
 {
@@ -7,7 +8,7 @@ namespace PortFolioManagement.Application.Contracts.PortFolioCategory
         OperationResult Create(CreatePortFolioCategory command);
         OperationResult Edit(EditPortFolioCategory command);
         EditPortFolioCategory GetDetails(long id);
+        List<PortFolioCategoryViewModel> GetPortFolioCategories();
         List<PortFolioCategoryViewModel> Search(PortFolioCategorySearchModel searchModel);
-        List<PortFolioCategoryViewModel> GetPortFolioCategory();
     }
 }

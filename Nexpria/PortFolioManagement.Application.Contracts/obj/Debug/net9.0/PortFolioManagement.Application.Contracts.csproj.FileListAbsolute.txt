@@ -1,0 +1,16 @@
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\bin\Debug\net9.0\PortFolioManagement.Application.Contracts.deps.json
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\bin\Debug\net9.0\PortFolioManagement.Application.Contracts.dll
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\bin\Debug\net9.0\PortFolioManagement.Application.Contracts.pdb
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\bin\Debug\net9.0\0_FrameWork.dll
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\bin\Debug\net9.0\0_FrameWork.pdb
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\PortFolioManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\PortFolioManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\PortFolioManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\PortFolioManagement.Application.Contracts.AssemblyInfo.cs
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\PortFolioManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\PortFolioManagement.Application.Contracts.sourcelink.json
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\PortFoli.0F9DA36C.Up2Date
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\PortFolioManagement.Application.Contracts.dll
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\refint\PortFolioManagement.Application.Contracts.dll
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\PortFolioManagement.Application.Contracts.pdb
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Application.Contracts\obj\Debug\net9.0\ref\PortFolioManagement.Application.Contracts.dll
