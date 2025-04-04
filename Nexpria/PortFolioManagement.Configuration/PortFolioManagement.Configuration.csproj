@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\01_NexoraiQuery\01_NexoraiQuery.csproj" />
     <ProjectReference Include="..\PortFolioManagement.Application\PortFolioManagement.Application.csproj" />
     <ProjectReference Include="..\PortFolioManagement.Domain\PortFolioManagement.Domain.csproj" />
     <ProjectReference Include="..\PortFolioManagement.Infrastructure.EFCore\PortFolioManagement.Infrastructure.EFCore.csproj" />

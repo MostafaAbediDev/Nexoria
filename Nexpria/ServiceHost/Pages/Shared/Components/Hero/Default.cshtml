@@ -1,0 +1,26 @@
+﻿@using _01_NexoraiQuery.Contract.Hero
+@model HeroQueryModel
+
+<!-- Hero Section -->
+<section id="home" class="hero">
+    <div id="particles-js" class="particles-container"></div>
+    <div class="container">
+        <div class="hero-content">
+            <h1 class="hero-title">@Model.Heading</h1>
+            <p class="hero-subtitle">
+                @Model.Text
+            </p>
+            <div class="hero-cta">
+                <a href="@Model.Link1" class="btn btn-primary">@Model.BtnText1</a>
+                <a href="@Model.Link2" class="btn btn-secondary">@Model.BtnText2</a>
+            </div>
+        </div>
+        <div class="hero-image">
+            <div class="hero-shape">
+                <div class="logo-container">
+                    <img src="@Model.Picture" alt="@Model.PictureAlt" title="@Model.PictureTitle" class="animated-logo">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

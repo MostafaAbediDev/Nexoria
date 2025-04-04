@@ -18,4 +18,19 @@
     <ProjectReference Include="..\PortFolioManagement.Configuration\PortFolioManagement.Configuration.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Update="Areas\Administration\Pages\PortFolio\Hero\Create.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\Administration\Pages\PortFolio\Hero\Edit.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Areas\Administration\Pages\PortFolio\Hero\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
 </Project>

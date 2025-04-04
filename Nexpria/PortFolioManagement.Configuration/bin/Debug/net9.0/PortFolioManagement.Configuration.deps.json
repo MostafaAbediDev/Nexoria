@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "PortFolioManagement.Configuration/1.0.0": {
         "dependencies": {
+          "01_NexoraiQuery": "1.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.3",
           "PortFolioManagement.Application": "1.0.0",
           "PortFolioManagement.Domain": "1.0.0",
@@ -590,6 +591,17 @@
           }
         }
       },
+      "01_NexoraiQuery/1.0.0": {
+        "dependencies": {
+          "PortFolioManagement.Infrastructure.EFCore": "1.0.0"
+        },
+        "runtime": {
+          "01_NexoraiQuery.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "0_FrameWork/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.3"
@@ -1041,6 +1053,11 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "01_NexoraiQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "0_FrameWork/1.0.0": {
       "type": "project",

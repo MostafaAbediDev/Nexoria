@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PortFolioManagement.Domain.HeroAgg;
 using PortFolioManagement.Domain.PortFolioAgg;
 using PortFolioManagement.Domain.PortFolioCategoryAgg;
 
@@ -8,7 +9,7 @@ namespace PortFolioManagement.Infrastructure.EFCore
     {
         public DbSet<PortFolioCategory> PortFolioCategories { get; set; }
         public DbSet<PortFolio> PortFolios { get; set; }    
-
+        public DbSet<Hero> heroes { get; set; }
         public PortFolioContext(DbContextOptions<PortFolioContext> options) : base(options)
         {
 

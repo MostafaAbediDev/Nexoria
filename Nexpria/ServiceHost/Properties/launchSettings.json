@@ -12,18 +12,17 @@
     },
     "https": {
       "commandName": "Project",
-      "launchBrowser": true,
-      "launchUrl": "Administration/PortFolio/PortFolioCategories",
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:7055;http://localhost:5183",
+      //"launchUrl": "Administration/PortFolio/PortFolioCategories",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "dotnetRunMessages": true,
-      "applicationUrl": "https://localhost:7055;http://localhost:5183"
+      }
     },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "Administration/PortFolio/PortFolioCategories",
+      //"launchUrl": "Administration/PortFolio/PortFolioCategories",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

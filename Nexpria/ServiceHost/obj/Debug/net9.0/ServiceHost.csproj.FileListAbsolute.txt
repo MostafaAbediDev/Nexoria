@@ -391,3 +391,5 @@ D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\mzuxu9rvum-cfjqo
 D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\oroup0wl5q-dixcipp2zx.gz
 D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\eejoz4n4tr-x4pruux0co.gz
 D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\wf3ggry5bt-qkzrm68k9u.gz
+D:\Nexoria\Code\Nexpria\ServiceHost\bin\Debug\net9.0\01_NexoraiQuery.dll
+D:\Nexoria\Code\Nexpria\ServiceHost\bin\Debug\net9.0\01_NexoraiQuery.pdb

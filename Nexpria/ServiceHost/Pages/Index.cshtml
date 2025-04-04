@@ -4,30 +4,7 @@
     ViewData["Title"] = "Home page";
 }
 
-<!-- Hero Section -->
-<section id="home" class="hero">
-    <div id="particles-js" class="particles-container"></div>
-    <div class="container">
-        <div class="hero-content">
-            <h1 class="hero-title">Transforming Ideas into Digital Reality</h1>
-            <p class="hero-subtitle">
-                We craft innovative solutions through software development, AI,
-                and digital marketing.
-            </p>
-            <div class="hero-cta">
-                <a href="contact.html" class="btn btn-primary">Get in Touch</a>
-                <a href="#projects" class="btn btn-secondary">View Our Work</a>
-            </div>
-        </div>
-        <div class="hero-image">
-            <div class="hero-shape">
-                <div class="logo-container">
-                    <img src="~/Theme/assets/images/logo.svg" alt="Nexoria Logo" class="animated-logo">
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+@await Component.InvokeAsync("Hero")
 
 <!-- About Section -->
 <section id="about" class="about">

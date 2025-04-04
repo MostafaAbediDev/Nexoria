@@ -22,3 +22,5 @@ D:\Nexoria\Code\Nexpria\PortFolioManagement.Configuration\obj\Debug\net9.0\PortF
 D:\Nexoria\Code\Nexpria\PortFolioManagement.Configuration\obj\Debug\net9.0\refint\PortFolioManagement.Configuration.dll
 D:\Nexoria\Code\Nexpria\PortFolioManagement.Configuration\obj\Debug\net9.0\PortFolioManagement.Configuration.pdb
 D:\Nexoria\Code\Nexpria\PortFolioManagement.Configuration\obj\Debug\net9.0\ref\PortFolioManagement.Configuration.dll
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Configuration\bin\Debug\net9.0\01_NexoraiQuery.dll
+D:\Nexoria\Code\Nexpria\PortFolioManagement.Configuration\bin\Debug\net9.0\01_NexoraiQuery.pdb

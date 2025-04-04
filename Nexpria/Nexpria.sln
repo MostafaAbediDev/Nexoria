@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHost", "ServiceHost\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortFolioManagement.Configuration", "PortFolioManagement.Configuration\PortFolioManagement.Configuration.csproj", "{00260B23-0348-4409-936D-2F38FC0A206B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_NexoraiQuery", "01_NexoraiQuery\01_NexoraiQuery.csproj", "{91FAF466-5DA4-4336-A4D2-257E22F3219E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{00260B23-0348-4409-936D-2F38FC0A206B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00260B23-0348-4409-936D-2F38FC0A206B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00260B23-0348-4409-936D-2F38FC0A206B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FAF466-5DA4-4336-A4D2-257E22F3219E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FAF466-5DA4-4336-A4D2-257E22F3219E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FAF466-5DA4-4336-A4D2-257E22F3219E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FAF466-5DA4-4336-A4D2-257E22F3219E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

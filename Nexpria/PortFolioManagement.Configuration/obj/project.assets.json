@@ -989,6 +989,19 @@
           }
         }
       },
+      "01_NexoraiQuery/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "PortFolioManagement.Infrastructure.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/01_NexoraiQuery.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/01_NexoraiQuery.dll": {}
+        }
+      },
       "0_FrameWork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -2808,6 +2821,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "01_NexoraiQuery/1.0.0": {
+      "type": "project",
+      "path": "../01_NexoraiQuery/01_NexoraiQuery.csproj",
+      "msbuildProject": "../01_NexoraiQuery/01_NexoraiQuery.csproj"
+    },
     "0_FrameWork/1.0.0": {
       "type": "project",
       "path": "../0_FrameWork/0_FrameWork.csproj",
@@ -2836,6 +2854,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "01_NexoraiQuery >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 9.0.3",
       "PortFolioManagement.Application >= 1.0.0",
       "PortFolioManagement.Domain >= 1.0.0",
@@ -2874,6 +2893,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "D:\\Nexoria\\Code\\Nexpria\\01_NexoraiQuery\\01_NexoraiQuery.csproj": {
+              "projectPath": "D:\\Nexoria\\Code\\Nexpria\\01_NexoraiQuery\\01_NexoraiQuery.csproj"
+            },
             "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Application\\PortFolioManagement.Application.csproj": {
               "projectPath": "D:\\Nexoria\\Code\\Nexpria\\PortFolioManagement.Application\\PortFolioManagement.Application.csproj"
             },
