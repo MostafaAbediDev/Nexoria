@@ -1,0 +1,25 @@
+﻿@model List<_01_NexoraiQuery.Contract.PortFolioCategory.PortFolioCategoryQueryModel>
+
+<section id="services" class="services section-transition">
+    <div class="container">
+        <div class="section-header">
+            <h2>Our Services</h2>
+            <p>Comprehensive solutions for your digital needs</p>
+        </div>
+        <div class="services-grid">
+        
+        @foreach(var item in Model)
+        {
+            <div class="service-card">
+                <div class="service-icon">
+                    <i class="@item.Icon" aria-hidden="true"></i>
+                </div>
+                <h3>@item.Name</h3>
+                <p>
+                    @item.ShortDescription
+                </p>
+            </div> 
+        }    
+        </div>
+    </div>
+</section>

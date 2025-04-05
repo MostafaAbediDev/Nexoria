@@ -1,4 +1,6 @@
 ﻿using _01_NexoraiQuery.Contract.Hero;
+using _01_NexoraiQuery.Contract.PortFolio;
+using _01_NexoraiQuery.Contract.PortFolioCategory;
 using _01_NexoraiQuery.Query;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -28,6 +30,8 @@ namespace PortFolioManagement.Configuration
             services.AddTransient<IHeroApplication, HeroApplication>();
 
             services.AddTransient<IHeroQuery, HeroQuery>();
+            services.AddTransient<IPortFolioCategoryQuery, PortFolioCategoryQuery>();
+            services.AddTransient<IPortFolioQuery, PortFoliosQuery>();
 
             services.AddDbContext<PortFolioContext>(x=>x.UseSqlServer(connectionString));
         }

@@ -1,0 +1,18 @@
+﻿@page
+@model PortFoliosModel
+@{
+    ViewData["Title"] = "Project page";
+}
+
+<section class="projects-page-hero">
+    <div class="container">
+        <div class="section-header">
+            <h1>Our Projects</h1>
+            <p>Explore our portfolio of innovative solutions that deliver real results</p>
+        </div>
+    </div>
+</section>
+
+<!-- All Projects Section -->
+@await Component.InvokeAsync("PortFolioCategoryWithPortFolio")
+

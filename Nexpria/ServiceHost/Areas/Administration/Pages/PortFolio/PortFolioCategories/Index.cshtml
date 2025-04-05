@@ -50,8 +50,9 @@
                             <thead>
                                 <tr>
                                     <th>#</th>
-                                    @* <th>عکس</th> *@
+                                    <th>Icon</th>
                                     <th>Name</th>
+                                    <th>ShorDescription</th>
                                     <th>Creation Date</th>
                                     <th>Operation</th>
                                 </tr>
@@ -61,10 +62,9 @@
                                 {
                                     <tr>
                                         <td>@item.Id</td>
-                                         @* <td>  *@
-                                         @*      <img src="@item.Picture" style="width: 70px; height: 70px" /> *@
-                                         @* </td> *@
+                                        <td>@item.Icon</td> 
                                         <td>@item.Name</td>
+                                        <td>@item.ShortDescription</td>
                                         <td>@item.CreationDate</td>
                                         <td>
                                             <a class="btn btn-warning pull-right m-rl-5" 

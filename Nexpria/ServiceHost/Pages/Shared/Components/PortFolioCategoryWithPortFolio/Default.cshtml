@@ -1,0 +1,33 @@
+﻿@using _01_NexoraiQuery.Contract.PortFolioCategory
+@model List<PortFolioCategoryQueryModel>
+
+<section class="projects-page">
+    <div class="container">
+        <!-- Project Category: Web Development -->
+        <div class="project-category">
+            @foreach (var category in Model)
+            {
+                    <h2>@category.Name</h2>
+                    <div class="projects-grid">
+                    @foreach (var portFolio in category.PortFolios)
+                    {
+                                <div class="project-card">
+                                    <img src="@portFolio.Picture" alt="@portFolio.PictureAlt" title="@portFolio.PictureTitle">
+                                    <div class="project-content">
+                                        <h3>@portFolio.Title</h3>
+                                        <p>@portFolio.ShortDescription</p>
+                                        <div class="project-tags">
+                                            <span>Web Development</span>
+                                            <span>AI</span>
+                                            <span>UX Design</span>
+                                        </div>
+                                        <a href="#" class="btn btn-secondary">View Case Study</a>
+                                    </div>
+                                </div>
+                    }
+                    </div>
+            }
+
+        </div>
+    </div>
+</section>

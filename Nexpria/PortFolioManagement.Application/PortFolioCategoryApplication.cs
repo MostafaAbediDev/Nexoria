@@ -21,8 +21,8 @@ namespace PortFolioManagement.Application
 
             var slug = command.Slug.Slugify();
 
-            var portFolioCategory = new PortFolioCategory(command.Name, command.Description
-            , command.Keywords, command.MetaDescription, slug);
+            var portFolioCategory = new PortFolioCategory(command.Name, command.ShortDescription, command.Icon,
+          command.Keywords, command.MetaDescription, slug );
 
             _portFolioCategoryRepository.Create(portFolioCategory);
             _portFolioCategoryRepository.SaveChanges();
@@ -43,7 +43,8 @@ namespace PortFolioManagement.Application
 
             var slug = command.Slug.Slugify();
 
-            portFolioCategory.Edit(command.Name, command.Description, command.Keywords, command.MetaDescription, slug);
+            portFolioCategory.Edit(command.Name, command.ShortDescription, command.Icon,
+                command.Keywords, command.MetaDescription, slug);
 
             _portFolioCategoryRepository.SaveChanges();
             return operation.Succedded();

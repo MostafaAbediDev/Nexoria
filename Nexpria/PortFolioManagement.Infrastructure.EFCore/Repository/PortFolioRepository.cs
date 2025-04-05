@@ -21,11 +21,11 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
                 Id = x.Id,
                 Title = x.Title,
                 Picture = x.Picture,
-                PictureAlt = x.Picture,
+                PictureAlt = x.PictureAlt,
                 PictureTitle = x.PictureTitle,
                 CategoryId = x.CategoryId,
-                ShortDescription = x.PictureTitle,
-                Description = x.PictureTitle,
+                Description = x.Description,
+                ShortDescription = x.ShortDescrioption,
                 Slug = x.Slug,
                 Keywords = x.Keywords,
                 MetaDescription = x.MetaDescription,
@@ -39,7 +39,8 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
             {
                 Id = x.Id,
                 Title = x.Title,
-                Picture = x.Picture
+                Picture = x.Picture,
+                ShortDescription = x.ShortDescrioption
             }).ToList();
         }
 
@@ -58,6 +59,7 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
                     Picture = x.Picture,
                     Category = x.Category.Name,
                     CategoryId = x.CategoryId,
+                    ShortDescription = x.ShortDescrioption,
                     CreationDate = x.CreationDate.ToString()
                 });
             if (!string.IsNullOrWhiteSpace(searchModel.Title))

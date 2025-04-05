@@ -18,14 +18,16 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
             return _context.PortFolioCategories.Select(x => new EditPortFolioCategory()
             {
                 Id = x.Id,
-                Description = x.Description,
                 Name = x.Name,
+                ShortDescription = x.ShortDescription,
+                Icon = x.Icon,
                 Keywords = x.Keywords,
                 MetaDescription = x.MetaDescription,
-                //Picture = x.Picture,
+                Slug = x.Slug,
                 //PictureAlt = x.PictureAlt,
                 //PictureTitle = x.PictureTitle,
-                Slug = x.Slug
+
+
 
             }).FirstOrDefault(x => x.Id == id);
         }
@@ -36,7 +38,8 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
             {
                 Id = x.Id,
                 Name = x.Name,
-
+                ShortDescription = x.ShortDescription,
+                Icon = x.Icon,
             }).ToList();
         }
 
@@ -45,8 +48,9 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
             var query = _context.PortFolioCategories.Select(x => new PortFolioCategoryViewModel
             {
                 Id = x.Id,
-                //Picture = x.Picture,
                 Name = x.Name,
+                ShortDescription = x.ShortDescription,
+                Icon = x.Icon,
                 CreationDate = x.CreationDate.ToString()
             });
 

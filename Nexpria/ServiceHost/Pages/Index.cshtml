@@ -42,105 +42,10 @@
 </section>
 
 <!-- Services Section -->
-<section id="services" class="services section-transition">
-    <div class="container">
-        <div class="section-header">
-            <h2>Our Services</h2>
-            <p>Comprehensive solutions for your digital needs</p>
-        </div>
-        <div class="services-grid">
-            <div class="service-card">
-                <div class="service-icon">
-                    <i class="fas fa-code" aria-hidden="true"></i>
-                </div>
-                <h3>Software Development</h3>
-                <p>
-                    Custom software solutions tailored to your business needs, from web applications
-                    to enterprise systems.
-                </p>
-            </div>
-            <div class="service-card">
-                <div class="service-icon">
-                    <i class="fas fa-brain" style="transform: none !important; display: flex !important; align-items: center !important; justify-content: center !important; -webkit-transform: none !important; -moz-transform: none !important; -ms-transform: none !important;" aria-hidden="true"></i>
-                </div>
-                <h3>Artificial Intelligence</h3>
-                <p>
-                    Leverage the power of AI with our cutting-edge solutions for automation, analytics,
-                    and intelligent systems.
-                </p>
-            </div>
-            <div class="service-card">
-                <div class="service-icon">
-                    <i class="fas fa-bullhorn" aria-hidden="true"></i>
-                </div>
-                <h3>Digital Marketing</h3>
-                <p>Strategic marketing solutions to boost your online presence and drive meaningful results.</p>
-            </div>
-        </div>
-    </div>
-</section>
+@await Component.InvokeAsync("PortFolioCategory")
 
 <!-- Projects Section -->
-<section id="projects" class="projects">
-    <div class="container">
-        <div class="section-header">
-            <h2>Our Projects</h2>
-            <p>Recent work we're proud of</p>
-        </div>
-        <div class="swiper projects-slider">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="project-card">
-                        <img src="~/Theme/assets/images/project1.jpg" alt="Project 1">
-                        <div class="project-content">
-                            <h3>E-Commerce Platform</h3>
-                            <p>Custom e-commerce solution with AI-powered recommendations</p>
-                            <a href="#" class="btn btn-secondary">View Case Study</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="project-card">
-                        <img src="~/Theme/assets/images/project2.jpg" alt="Project 2">
-                        <div class="project-content">
-                            <h3>AI Analytics Dashboard</h3>
-                            <p>Real-time data visualization with predictive analytics</p>
-                            <a href="#" class="btn btn-secondary">View Case Study</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="project-card">
-                        <img src="~/Theme/assets/images/project3.jpg" alt="Project 3">
-                        <div class="project-content">
-                            <h3>Mobile Banking App</h3>
-                            <p>Secure financial platform with intuitive UX design</p>
-                            <a href="#" class="btn btn-secondary">View Case Study</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div class="project-card">
-                        <img src="~/Theme/assets/images/project4.jpg" alt="Project 4">
-                        <div class="project-content">
-                            <h3>Smart Home IoT System</h3>
-                            <p>Connected device network with voice control capabilities</p>
-                            <a href="#" class="btn btn-secondary">View Case Study</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- More project slides will be added dynamically -->
-            </div>
-            <div class="swiper-pagination"></div>
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
-        </div>
-        <div class="projects-cta">
-            <a href="projects.html" class="btn btn-primary">View All Projects</a>
-        </div>
-    </div>
-</section>
-
+@await Component.InvokeAsync("PortFolio")
 <!-- Testimonials Section -->
 <section id="testimonials" class="testimonials">
     <div class="container">
@@ -225,3 +130,4 @@
         </div>
     </div>
 </section>
+

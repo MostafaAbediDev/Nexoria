@@ -7,8 +7,8 @@ namespace PortFolioManagement.Application.Contracts.PortFolioCategory
     {
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string Name { get; set; }
-        public string Description { get; set; }
-        //public string Picture { get; set; }
+        public string ShortDescription { get; set; }
+        public string Icon { get; set; }
         //public string PictureAlt { get; set; }
         //public string PictureTitle { get; set; }
 

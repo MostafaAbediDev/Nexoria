@@ -7,7 +7,7 @@ namespace PortFolioManagement.Domain.PortFolioAgg
     {
         public string Title  { get; private set; }
         public string Picture { get; private set; }
-        public string PictuteAlt { get; private set; }
+        public string PictureAlt { get; private set; }
         public string PictureTitle { get; private set; }
         public long CategoryId { get; private set; }
         public string ShortDescrioption { get; private set; }
@@ -18,13 +18,13 @@ namespace PortFolioManagement.Domain.PortFolioAgg
         public PortFolioCategory Category { get; private set; }
         public bool IsRemoved { get; private set; }
 
-        public PortFolio(string title, string picture, string pictuteAlt,
+        public PortFolio(string title, string picture, string pictureAlt,
             string pictureTitle, long categoryId, string shortDescrioption, string description, 
             string slug, string keywords, string metaDescription)
         {
             Title = title;
             Picture = picture;
-            PictuteAlt = pictuteAlt;
+            PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             CategoryId = categoryId;
             ShortDescrioption = shortDescrioption;
@@ -35,13 +35,13 @@ namespace PortFolioManagement.Domain.PortFolioAgg
             IsRemoved = true;
         }
 
-        public void Edit(string title, string picture, string pictuteAlt,
+        public void Edit(string title, string picture, string pictureAlt,
             string pictureTitle, long categoryId, string shortDescrioption, string description, 
             string slug, string keywords, string metaDescription)
         {
             Title = title;
             Picture = picture;
-            PictuteAlt = pictuteAlt;
+            PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             CategoryId = categoryId;
             ShortDescrioption = shortDescrioption;
