@@ -3,68 +3,28 @@
   "WorkspaceRootPath": "D:\\Nexoria\\Code\\Nexpria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\shared\\components\\portfoliocategorywithportfolio\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\components\\portfoliocategorywithportfolio\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\shared\\components\\portfoliocategory\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\components\\portfoliocategory\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91FAF466-5DA4-4336-A4D2-257E22F3219E}|01_NexoraiQuery\\01_NexoraiQuery.csproj|d:\\nexoria\\code\\nexpria\\01_nexoraiquery\\contract\\portfoliocategory\\portfoliocategoryquerymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91FAF466-5DA4-4336-A4D2-257E22F3219E}|01_NexoraiQuery\\01_NexoraiQuery.csproj|solutionrelative:01_nexoraiquery\\contract\\portfoliocategory\\portfoliocategoryquerymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91FAF466-5DA4-4336-A4D2-257E22F3219E}|01_NexoraiQuery\\01_NexoraiQuery.csproj|d:\\nexoria\\code\\nexpria\\01_nexoraiquery\\query\\portfoliocategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91FAF466-5DA4-4336-A4D2-257E22F3219E}|01_NexoraiQuery\\01_NexoraiQuery.csproj|solutionrelative:01_nexoraiquery\\query\\portfoliocategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\viewcomponents\\portfoliocategorywithportfolioviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\viewcomponents\\portfoliocategorywithportfolioviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\portfolios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\portfolios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\viewcomponents\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\shared\\components\\portfolio\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\shared\\components\\portfolio\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\portfolios.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\portfolios.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\areas\\administration\\pages\\portfolio\\portfoliocategories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\portfolio\\portfoliocategories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\areas\\administration\\pages\\portfolio\\portfoliocategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\portfolio\\portfoliocategories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\areas\\administration\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\areas\\administration\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\areas\\administration\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\areas\\administration\\pages\\shared\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -78,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,223 +50,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PortFolioCategoryQueryModel.cs",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\01_NexoraiQuery\\Contract\\PortFolioCategory\\PortFolioCategoryQueryModel.cs",
-              "RelativeDocumentMoniker": "01_NexoraiQuery\\Contract\\PortFolioCategory\\PortFolioCategoryQueryModel.cs",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\01_NexoraiQuery\\Contract\\PortFolioCategory\\PortFolioCategoryQueryModel.cs",
-              "RelativeToolTip": "01_NexoraiQuery\\Contract\\PortFolioCategory\\PortFolioCategoryQueryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T19:05:38.754Z",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\Components\\Footer\\Default.cshtml",
+              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\Components\\Footer\\Default.cshtml",
+              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\Components\\Footer\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T11:33:36.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PortFolioCategoryQuery.cs",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\01_NexoraiQuery\\Query\\PortFolioCategoryQuery.cs",
-              "RelativeDocumentMoniker": "01_NexoraiQuery\\Query\\PortFolioCategoryQuery.cs",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\01_NexoraiQuery\\Query\\PortFolioCategoryQuery.cs",
-              "RelativeToolTip": "01_NexoraiQuery\\Query\\PortFolioCategoryQuery.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Title": "FooterViewComponent.cs",
+              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeDocumentMoniker": "ServiceHost\\ViewComponents\\FooterViewComponent.cs",
+              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\ViewComponents\\FooterViewComponent.cs",
+              "RelativeToolTip": "ServiceHost\\ViewComponents\\FooterViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:58:58.071Z",
+              "WhenOpened": "2025-04-06T11:32:23.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\Components\\PortFolioCategory\\Default.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\Components\\PortFolioCategory\\Default.cshtml",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\Components\\PortFolioCategory\\Default.cshtml",
-              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\Components\\PortFolioCategory\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwBIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T18:49:14.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PortFolios.cshtml",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\PortFolios.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Pages\\PortFolios.cshtml",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\PortFolios.cshtml",
-              "RelativeToolTip": "ServiceHost\\Pages\\PortFolios.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T18:46:37.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Pages\\Index.cshtml",
               "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Index.cshtml",
               "RelativeToolTip": "ServiceHost\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T18:46:35.351Z",
+              "WhenOpened": "2025-04-06T11:29:41.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PortFolios.cshtml.cs",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\PortFolios.cshtml.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Pages\\PortFolios.cshtml.cs",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\PortFolios.cshtml.cs",
-              "RelativeToolTip": "ServiceHost\\Pages\\PortFolios.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:43:20.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\Components\\PortFolioCategoryWithPortFolio\\Default.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\Components\\PortFolioCategoryWithPortFolio\\Default.cshtml",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\Components\\PortFolioCategoryWithPortFolio\\Default.cshtml",
-              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\Components\\PortFolioCategoryWithPortFolio\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T18:55:10.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "ServiceHost\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:49:39.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PortFolioCategoryWithPortFolioViewComponent.cs",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\ViewComponents\\PortFolioCategoryWithPortFolioViewComponent.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\ViewComponents\\PortFolioCategoryWithPortFolioViewComponent.cs",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\ViewComponents\\PortFolioCategoryWithPortFolioViewComponent.cs",
-              "RelativeToolTip": "ServiceHost\\ViewComponents\\PortFolioCategoryWithPortFolioViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:47:36.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\Components\\PortFolio\\Default.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\Components\\PortFolio\\Default.cshtml",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\Components\\PortFolio\\Default.cshtml",
-              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\Components\\PortFolio\\Default.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T18:51:52.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolioCategories\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolioCategories\\Index.cshtml.cs",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolioCategories\\Index.cshtml.cs",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolioCategories\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:43:44.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolioCategories\\Index.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolioCategories\\Index.cshtml",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolioCategories\\Index.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolioCategories\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T18:43:41.078Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T18:43:36.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T18:40:10.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "_Menu.cshtml",
               "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
               "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
               "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_Menu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T18:40:05.194Z",
+              "WhenOpened": "2025-04-06T11:21:38.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T18:35:35.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAAALQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-05T18:32:48.935Z",
+              "WhenOpened": "2025-04-06T11:21:32.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T11:20:56.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\Components\\PortFolio\\Default.cshtml",
+              "RelativeDocumentMoniker": "ServiceHost\\Pages\\Shared\\Components\\PortFolio\\Default.cshtml",
+              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Pages\\Shared\\Components\\PortFolio\\Default.cshtml",
+              "RelativeToolTip": "ServiceHost\\Pages\\Shared\\Components\\PortFolio\\Default.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-06T11:20:47.473Z",
               "EditorCaption": ""
             }
           ]
