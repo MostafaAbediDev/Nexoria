@@ -1,7 +1,6 @@
 ﻿using _0_FrameWork.Infrastructure;
 using PortFolioManagement.Application.Contracts.Hero;
 using PortFolioManagement.Domain.HeroAgg;
-using System.Xml.Linq;
 
 namespace PortFolioManagement.Infrastructure.EFCore.Repository
 {
@@ -22,27 +21,28 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
                 BtnText1 = x.BtnText1,
                 BtnText2 = x.BtnText2,
                 Heading = x.Heading,
-                Picture = x.Picture,
-                PictureAlt = x.PictureAlt,
-                PictureTitle = x.PictureTitle,
-                Text = x.Text,
                 Link1 = x.Link1,
                 Link2 = x.Link2,
+                //Picture = x.Picture,
+                PictureAlt = x.PictureAlt,
+                PictureTitle = x.PictureTitle
             }).FirstOrDefault(x => x.Id == id);
         }
 
-        public HeroViewModel GetHeros()
+        public HeroViewModel GetHero()
         {
-            return _context.heroes.Select(x => new HeroViewModel
+            var heros =  _context.heroes.Select(x => new HeroViewModel
             {
                 Id = x.Id,
                 Heading = x.Heading,
-                Picture = x.Picture,
-                Text = x.Text,
                 Link1 = x.Link1,
                 Link2 = x.Link2,
+                Picture = x.Picture,
+                Text = x.Text,
                 CreationDate = x.CreationDate.ToString()
             }).OrderByDescending(x => x.Id).FirstOrDefault();
+
+            return heros ?? new HeroViewModel { };
         }
     }
 }

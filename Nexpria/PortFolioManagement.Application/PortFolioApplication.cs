@@ -1,16 +1,23 @@
 ﻿using _0_Framework.Application;
+using _0_FrameWork.Application;
 using PortFolioManagement.Application.Contracts.PortFolio;
 using PortFolioManagement.Domain.PortFolioAgg;
+using PortFolioManagement.Domain.PortFolioCategoryAgg;
 
 namespace PortFolioManagement.Application
 {
     public class PortFolioApplication : IPortFolioApplication
     {
+        private readonly IFileUploader _fileUploader;
         private readonly IPortFolioRepository _portFolioRepository;
+        private readonly IPortFolioCategoryRepository _portFolioCategoryRepository;
 
-        public PortFolioApplication(IPortFolioRepository portFolioRepository)
+        public PortFolioApplication(IFileUploader fileUploader, IPortFolioRepository portFolioRepository,
+            IPortFolioCategoryRepository portFolioCategoryRepository)
         {
+            _fileUploader = fileUploader;
             _portFolioRepository = portFolioRepository;
+            _portFolioCategoryRepository = portFolioCategoryRepository;
         }
 
         public OperationResult Create(CreatePortFolio command)
@@ -20,8 +27,11 @@ namespace PortFolioManagement.Application
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
             var slug = command.Slug.Slugify();
+            var categoryName = _portFolioCategoryRepository.GetNameById(command.CategoryId);
+            var picturePath = $"{categoryName}";
+            var fileName = _fileUploader.Upload(command.Picture, picturePath);
 
-            var PortFolio = new PortFolio(command.Title, command.Picture, command.PictureAlt,
+            var PortFolio = new PortFolio(command.Title, fileName, command.PictureAlt,
                 command.PictureTitle, command.CategoryId, command.ShortDescription, command.Description,
                 slug, command.Keywords, command.MetaDescription);
 
@@ -34,16 +44,20 @@ namespace PortFolioManagement.Application
         public OperationResult Edit(EditPortFolio command)
         {
             var operation = new OperationResult();
-            var PortFolio = _portFolioRepository.Get(command.Id);
+            var PortFolio = _portFolioRepository.GetPortFolioWithCategory(command.Id);
             if (PortFolio == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
-            var slug = command.Slug.Slugify();
 
             if (_portFolioRepository.Exists(x => x.Title == command.Title && x.Id != command.Id))
                 return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
-            PortFolio.Edit(command.Title, command.Picture, command.PictureAlt,
+            var slug = command.Slug.Slugify();
+            var picturePath = $"{PortFolio.Category.Name}";
+
+            var fileName = _fileUploader.Upload(command.Picture,picturePath);
+
+            PortFolio.Edit(command.Title, fileName, command.PictureAlt,
                 command.PictureTitle, command.CategoryId, command.ShortDescription, command.Description,
                 slug, command.Keywords, command.MetaDescription);
 

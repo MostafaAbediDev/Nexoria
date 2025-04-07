@@ -1,4 +1,5 @@
 ﻿using _0_Framework.Application;
+using _0_FrameWork.Application;
 using PortFolioManagement.Application.Contracts.Hero;
 using PortFolioManagement.Domain.HeroAgg;
 
@@ -6,10 +7,12 @@ namespace PortFolioManagement.Application
 {
     public class HeroApplication : IHeroApplication
     {
+        private readonly IFileUploader _fileUploader;
         private readonly IHeroRepository _heroRepository;
 
-        public HeroApplication(IHeroRepository heroRepository)
+        public HeroApplication(IFileUploader fileUploader, IHeroRepository heroRepository)
         {
+            _fileUploader = fileUploader;
             _heroRepository = heroRepository;
         }
 
@@ -17,10 +20,14 @@ namespace PortFolioManagement.Application
         {
             var operation = new OperationResult();
 
-            var Hero = new Hero(command.Picture, command.PictureAlt, command.PictureTitle,
-                command.Heading, command.Text, command.Link1, command.Link2,command.BtnText1, command.BtnText2);
+            var picturePath = $"{command.Heading}";
+            var fileName = _fileUploader.Upload(command.Picture, picturePath);
 
-            _heroRepository.Create(Hero);
+            var hero = new Hero(fileName, command.PictureAlt, command.PictureTitle,
+                command.Heading, command.Text, command.BtnText1,
+                command.BtnText2, command.Link1, command.Link2);
+
+            _heroRepository.Create(hero);
             _heroRepository.SaveChanges();
 
             return operation.Succedded();
@@ -29,14 +36,18 @@ namespace PortFolioManagement.Application
         public OperationResult Edit(EditHero command)
         {
             var operation = new OperationResult();
-            var Hero = _heroRepository.Get(command.Id);
-            if(Hero == null) 
+            var hero = _heroRepository.Get(command.Id);
+
+            if(hero == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
-            Hero.Edit(command.Picture, command.PictureAlt, command.PictureTitle,
-                command.Heading, command.Text, command.Link1, command.Link2, command.BtnText1, command.BtnText2);
+            var picturePath = $"{command.Heading}";
+            var fileName = _fileUploader.Upload(command.Picture, picturePath);
 
-            
+            hero.Edit(fileName, command.PictureAlt, command.PictureTitle,
+                command.Heading, command.Text, command.BtnText1,
+                command.BtnText2, command.Link1, command.Link2);
+
             _heroRepository.SaveChanges();
 
             return operation.Succedded();
@@ -47,9 +58,9 @@ namespace PortFolioManagement.Application
             return _heroRepository.GetDetails(id);
         }
 
-        public HeroViewModel GetHeros()
+        public HeroViewModel GetHero()
         {
-            return _heroRepository.GetHeros();
+            return _heroRepository.GetHero();
         }
     }
 }

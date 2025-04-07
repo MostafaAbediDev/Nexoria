@@ -17,7 +17,7 @@ namespace ServiceHost.Areas.Administration.Pages.PortFolio.Hero
 
         public void OnGet()
         {
-            Heros = _heroApplication.GetHeros();
+            Heros = _heroApplication.GetHero();
         }
 
         public IActionResult OnGetCreate()
@@ -34,9 +34,9 @@ namespace ServiceHost.Areas.Administration.Pages.PortFolio.Hero
 
         public IActionResult OnGetEdit(long id)
         {
-            var Heros = _heroApplication.GetDetails(id);
+            var heros = _heroApplication.GetDetails(id);
 
-            return Partial("./Edit", Heros);
+            return Partial("./Edit", heros);
         }
 
         public JsonResult OnPostEdit(EditHero command)

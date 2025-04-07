@@ -53,6 +53,10 @@ namespace ServiceHost.Areas.Administration.Pages.PortFolio.PortFolios
 
         public JsonResult OnPostEdit(EditPortFolio command)
         {
+            if (ModelState.IsValid)
+            {
+                
+            }
             var result = _portFolioApplication.Edit(command);
             return new JsonResult(result);
         }

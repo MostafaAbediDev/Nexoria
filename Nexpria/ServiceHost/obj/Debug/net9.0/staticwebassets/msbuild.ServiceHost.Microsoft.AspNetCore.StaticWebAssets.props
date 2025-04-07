@@ -5526,6 +5526,168 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-26-49-7046.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/Software/2025-04-07-12-26-49-7046.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>e5qrx0pyt4</Fingerprint>
+      <Integrity>Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-26-49-7046.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>cgj2cr9xlt</Fingerprint>
+      <Integrity>/Hb7SPk/ixR7LlUD0/YshWkgIVnuz01bU8DnCynAazQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-28-05-39610.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/Software/2025-04-07-12-28-05-39610.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>z2fwa64cim</Fingerprint>
+      <Integrity>W3boWJ/P3iI8ToSM4i6IN6XaDF7uiB8H8oKzYPHVa+s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-28-05-39610.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تجارت الکترونیک\2025-04-07-12-27-38-39663.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7x7j9gv1ve</Fingerprint>
+      <Integrity>JThJJjX0oheR2ZqIPCewlegFXI/TMjO2b4HOwc+ui3k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تجارت الکترونیک\2025-04-07-12-27-38-39663.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تجارت الکترونیک\2025-04-07-12-27-46-51809.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>irf8ssdz16</Fingerprint>
+      <Integrity>MuJCQ5uAPD7VagioqVMR/sEPcYs2KD5ccDv4rPdmqk4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تجارت الکترونیک\2025-04-07-12-27-46-51809.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-27-23-17520.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-07-12-27-23-17520.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dgqmb70jv9</Fingerprint>
+      <Integrity>bVaG178xMjwK6snPk+nSWtd5VbOKAThZnlh8ToPvy3Y=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-27-23-17520.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-27-29-39660.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-07-12-27-29-39660.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rnlz5801mx</Fingerprint>
+      <Integrity>mSKpufWA+CTqnv+ydHRUyXmf2keITsN8hMlzNYbmxVc=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-27-29-39660.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-28-49-39663.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-07-12-28-49-39663.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>7x7j9gv1ve</Fingerprint>
+      <Integrity>JThJJjX0oheR2ZqIPCewlegFXI/TMjO2b4HOwc+ui3k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-28-49-39663.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-17-28-05-7046.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ServiceHost</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ServiceHost</BasePath>
+      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-07-17-28-05-7046.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>e5qrx0pyt4</Fingerprint>
+      <Integrity>Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-17-28-05-7046.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ServiceHost.th8s6aslzz.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>

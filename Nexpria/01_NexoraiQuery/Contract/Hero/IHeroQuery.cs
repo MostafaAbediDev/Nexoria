@@ -2,6 +2,6 @@
 {
     public interface IHeroQuery
     {
-        HeroQueryModel GetHeros();   
+        HeroQueryModel GetHeros();
     }
 }

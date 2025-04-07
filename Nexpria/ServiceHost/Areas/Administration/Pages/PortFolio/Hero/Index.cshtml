@@ -31,7 +31,7 @@
                                 <tr>
                                     <th>#</th>
                                     <th>Picture</th>
-                                    <th>Heading</th> 
+                                    <th>Heading</th>
                                     <th>Text</th>
                                     <th>LinkBtn1</th>
                                     <th>LinkBtn2</th>
@@ -40,23 +40,23 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                    <tr>
-                                        <td>@Model.Heros.Id</td>
-                                        <td>
-                                            <img src="@Model.Heros.Picture"  style="width: 70px; height: 70px" />
-                                        </td>
+                                <tr>
+                                    <td>@Model.Heros.Id</td>
+                                    <td>
+                                        <img src="~/ProductPicture/@Model.Heros.Picture" style="width: 70px; height: 70px" />
+                                    </td>
                                     <td>@Model.Heros.Heading</td>
                                     <td>@Model.Heros.Text</td>
                                     <td>@Model.Heros.Link1</td>
                                     <td>@Model.Heros.Link2</td>
                                     <td>@Model.Heros.CreationDate</td>
-                                        <td>
-                                            <a class="btn btn-warning waves-effect waves-light m-b-5"
+                                    <td>
+                                        <a class="btn btn-warning waves-effect waves-light m-b-5"
                                            href="#showmodal=@Url.Page("./Index", "Edit", new { id = Model.Heros.Id})">
-                                                <i class="fa fa-edit"></i> Edit
-                                            </a>
-                                        </td>
-                                    </tr>
+                                            <i class="fa fa-edit"></i> Edit
+                                        </a>
+                                    </td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>

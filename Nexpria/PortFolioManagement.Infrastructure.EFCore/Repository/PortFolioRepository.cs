@@ -20,7 +20,7 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
             {
                 Id = x.Id,
                 Title = x.Title,
-                Picture = x.Picture,
+                //Picture = x.Picture,
                 PictureAlt = x.PictureAlt,
                 PictureTitle = x.PictureTitle,
                 CategoryId = x.CategoryId,
@@ -45,6 +45,11 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
         }
 
         public PortFolio GetPortFoliosWithCategory(long id)
+        {
+            return _context.PortFolios.Include(x => x.Category).FirstOrDefault(x => x.Id == id);
+        }
+
+        public PortFolio GetPortFolioWithCategory(long id)
         {
             return _context.PortFolios.Include(x => x.Category).FirstOrDefault(x => x.Id == id);
         }

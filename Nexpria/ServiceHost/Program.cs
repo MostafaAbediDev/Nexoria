@@ -1,5 +1,7 @@
+using _0_FrameWork.Application;
 using Microsoft.Extensions.Configuration;
 using PortFolioManagement.Configuration;
+using ServiceHost;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +10,7 @@ var connectionString = builder.Configuration.GetConnectionString("NexoriaDb");
 
 PortFolioManagementBoostrapper.Configure(builder.Services, connectionString);
 
+builder.Services.AddTransient<IFileUploader,FileUploader>();
 
 builder.Services.AddRazorPages();
 

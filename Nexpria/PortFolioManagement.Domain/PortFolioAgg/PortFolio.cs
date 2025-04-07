@@ -40,7 +40,8 @@ namespace PortFolioManagement.Domain.PortFolioAgg
             string slug, string keywords, string metaDescription)
         {
             Title = title;
-            Picture = picture;
+            if(!string.IsNullOrWhiteSpace(picture))
+                Picture = picture;
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             CategoryId = categoryId;

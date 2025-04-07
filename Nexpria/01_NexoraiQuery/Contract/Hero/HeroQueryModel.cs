@@ -1,4 +1,6 @@
-﻿namespace _01_NexoraiQuery.Contract.Hero
+﻿using System.Net.Sockets;
+
+namespace _01_NexoraiQuery.Contract.Hero
 {
     public class HeroQueryModel
     {

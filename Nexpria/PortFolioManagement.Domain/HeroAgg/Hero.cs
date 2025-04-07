@@ -1,9 +1,4 @@
 ﻿using _0_FrameWork.Domain;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PortFolioManagement.Domain.HeroAgg
 {
@@ -19,8 +14,9 @@ namespace PortFolioManagement.Domain.HeroAgg
         public string Link1 { get; private set; }
         public string Link2 { get; private set; }
 
-        public Hero(string picture, string pictureAlt, string pictureTitle,
-            string heading, string text, string link1, string link2,string btnText1, string btnText2)
+        public Hero(string picture, string pictureAlt, 
+            string pictureTitle, string heading, string text, 
+            string btnText1, string btnText2, string link1, string link2)
         {
             Picture = picture;
             PictureAlt = pictureAlt;
@@ -33,10 +29,13 @@ namespace PortFolioManagement.Domain.HeroAgg
             Link2 = link2;
         }
 
-        public void Edit(string picture, string pictureAlt, string pictureTitle,
-            string heading, string text, string link1, string link2, string btnText1, string btnText2)
+        public void Edit(string picture, string pictureAlt,
+            string pictureTitle, string heading, string text,
+            string btnText1, string btnText2, string link1, string link2)
         {
-            Picture = picture;
+            if (!string.IsNullOrWhiteSpace(picture))
+                Picture = picture;
+
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             Heading = heading;

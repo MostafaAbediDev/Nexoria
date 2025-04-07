@@ -7,6 +7,6 @@ namespace PortFolioManagement.Application.Contracts.Hero
         OperationResult Create(CreateHero command);
         OperationResult Edit(EditHero command);
         EditHero GetDetails(long id);
-        HeroViewModel GetHeros();
+        HeroViewModel GetHero();
     }
 }

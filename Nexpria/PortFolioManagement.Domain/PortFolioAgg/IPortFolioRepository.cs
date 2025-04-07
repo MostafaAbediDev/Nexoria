@@ -6,6 +6,7 @@ namespace PortFolioManagement.Domain.PortFolioAgg
     public interface IPortFolioRepository : IRepository<long, PortFolio>
     {
         EditPortFolio GetDetails(long id);
+        PortFolio GetPortFolioWithCategory(long id);
         PortFolio GetPortFoliosWithCategory(long id);
         List<PortFolioViewModel> GetPortFolios();
         List<PortFolioViewModel> Search(PortFolioSearchModel searchModel);

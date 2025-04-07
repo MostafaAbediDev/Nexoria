@@ -18,7 +18,8 @@ namespace PortFolioManagement.Infrastructure.EFCore.Mapping
             builder.Property(x => x.Text).HasMaxLength(255);
             builder.Property(x => x.BtnText1).HasMaxLength(50).IsRequired();
             builder.Property(x => x.BtnText2).HasMaxLength(50).IsRequired();
-
+            builder.Property(x => x.Link1).HasMaxLength(50).IsRequired();
+            builder.Property(x => x.Link2).HasMaxLength(50).IsRequired();
         }
     }
 }

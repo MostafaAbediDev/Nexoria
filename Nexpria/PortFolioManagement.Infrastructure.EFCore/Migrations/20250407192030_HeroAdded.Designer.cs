@@ -12,8 +12,8 @@ using PortFolioManagement.Infrastructure.EFCore;
 namespace PortFolioManagement.Infrastructure.EFCore.Migrations
 {
     [DbContext(typeof(PortFolioContext))]
-    [Migration("20250404103713_Link1AndLink2AddedToHeros")]
-    partial class Link1AndLink2AddedToHeros
+    [Migration("20250407192030_HeroAdded")]
+    partial class HeroAdded
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -53,11 +53,13 @@ namespace PortFolioManagement.Infrastructure.EFCore.Migrations
 
                     b.Property<string>("Link1")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("Link2")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("Picture")
                         .IsRequired()
@@ -120,15 +122,15 @@ namespace PortFolioManagement.Infrastructure.EFCore.Migrations
                         .HasMaxLength(1000)
                         .HasColumnType("nvarchar(1000)");
 
+                    b.Property<string>("PictureAlt")
+                        .IsRequired()
+                        .HasMaxLength(255)
+                        .HasColumnType("nvarchar(255)");
+
                     b.Property<string>("PictureTitle")
                         .IsRequired()
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
-
-                    b.Property<string>("PictuteAlt")
-                        .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("nvarchar(255)");
 
                     b.Property<string>("ShortDescrioption")
                         .IsRequired()
@@ -163,7 +165,7 @@ namespace PortFolioManagement.Infrastructure.EFCore.Migrations
                     b.Property<DateTime>("CreationDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Description")
+                    b.Property<string>("Icon")
                         .IsRequired()
                         .HasMaxLength(500)
                         .HasColumnType("nvarchar(500)");
@@ -182,6 +184,11 @@ namespace PortFolioManagement.Infrastructure.EFCore.Migrations
                         .IsRequired()
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
+
+                    b.Property<string>("ShortDescription")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
 
                     b.Property<string>("Slug")
                         .IsRequired()

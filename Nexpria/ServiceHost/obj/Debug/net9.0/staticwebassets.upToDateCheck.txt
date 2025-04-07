@@ -515,6 +515,15 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\ProductPicture\Software\2025-04-07-12-26-49-7046.jpg
+wwwroot\ProductPicture\Software\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg
+wwwroot\ProductPicture\Software\2025-04-07-12-28-05-39610.jpg
+wwwroot\ProductPicture\تجارت الکترونیک\2025-04-07-12-27-38-39663.jpg
+wwwroot\ProductPicture\تجارت الکترونیک\2025-04-07-12-27-46-51809.jpg
+wwwroot\ProductPicture\هوش مصنوعی\2025-04-07-12-27-23-17520.jpg
+wwwroot\ProductPicture\هوش مصنوعی\2025-04-07-12-27-29-39660.jpg
+wwwroot\ProductPicture\هوش مصنوعی\2025-04-07-12-28-49-39663.jpg
+wwwroot\ProductPicture\هوش مصنوعی\2025-04-07-17-28-05-7046.jpg
 wwwroot\Theme\assets\css\animations.css
 wwwroot\Theme\assets\css\style.css
 wwwroot\Theme\assets\images\about-us.jpg

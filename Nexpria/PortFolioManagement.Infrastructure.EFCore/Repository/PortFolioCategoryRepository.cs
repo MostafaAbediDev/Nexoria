@@ -27,9 +27,12 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
                 //PictureAlt = x.PictureAlt,
                 //PictureTitle = x.PictureTitle,
 
-
-
             }).FirstOrDefault(x => x.Id == id);
+        }
+
+        public string GetNameById(long id)
+        {
+            return _context.PortFolioCategories.Select(x => new { x.Id, x.Name }).FirstOrDefault(x => x.Id == id).Name;
         }
 
         public List<PortFolioCategoryViewModel> GetPortFolioCategories()

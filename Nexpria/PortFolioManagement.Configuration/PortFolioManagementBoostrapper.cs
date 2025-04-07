@@ -26,8 +26,11 @@ namespace PortFolioManagement.Configuration
             services.AddTransient<IPortFolioRepository, PortFolioRepository>();
             services.AddTransient<IPortFolioApplication, PortFolioApplication>();
 
-            services.AddTransient<IHeroRepository, HeroRepository>();
+
             services.AddTransient<IHeroApplication, HeroApplication>();
+            services.AddTransient<IHeroRepository, HeroRepository>();
+
+
 
             services.AddTransient<IHeroQuery, HeroQuery>();
             services.AddTransient<IPortFolioCategoryQuery, PortFolioCategoryQuery>();

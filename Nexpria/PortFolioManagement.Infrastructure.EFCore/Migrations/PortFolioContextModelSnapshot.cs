@@ -50,11 +50,13 @@ namespace PortFolioManagement.Infrastructure.EFCore.Migrations
 
                     b.Property<string>("Link1")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("Link2")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("Picture")
                         .IsRequired()
