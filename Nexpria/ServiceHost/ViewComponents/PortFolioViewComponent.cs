@@ -1,5 +1,4 @@
 ﻿using _01_NexoraiQuery.Contract.PortFolio;
-using _01_NexoraiQuery.Contract.PortFolioCategory;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ServiceHost.ViewComponents

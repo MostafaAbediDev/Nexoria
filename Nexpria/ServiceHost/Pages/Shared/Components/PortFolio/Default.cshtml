@@ -8,7 +8,6 @@
         </div>
         <div class="swiper projects-slider">
             <div class="swiper-wrapper">
-
                 @foreach (var portFolio in Model)
                 {
                     <div class="swiper-slide">
@@ -17,13 +16,20 @@
                             <div class="project-content">
                                 <h3>@portFolio.Title</h3>
                                 <p>@portFolio.ShortDescription</p>
-                                <a href="#" class="btn btn-secondary">View Case Study</a>
+                                <a href="#"
+                                   class="btn btn-secondary view-case-study"
+                                   data-id="@portFolio.Id"
+                                   data-title="@portFolio.Title"
+                                   data-client="@portFolio.Client"
+                                   data-description="@portFolio.Description"
+                                   data-timeline="@portFolio.Timeline"
+                                   data-picture="@Url.Content("~/ProductPicture/" + portFolio.Picture)">
+                                    View Case Study
+                                </a>
                             </div>
                         </div>
                     </div>
                 }
-
-                <!-- More project slides will be added dynamically -->
             </div>
             <div class="swiper-pagination"></div>
             <div class="swiper-button-next"></div>
@@ -34,3 +40,4 @@
         </div>
     </div>
 </section>
+

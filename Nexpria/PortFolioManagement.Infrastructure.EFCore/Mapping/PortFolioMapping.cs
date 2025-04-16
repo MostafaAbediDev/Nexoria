@@ -25,6 +25,8 @@ namespace PortFolioManagement.Infrastructure.EFCore.Mapping
             builder.Property(x => x.Keywords).HasMaxLength(100).IsRequired();
             builder.Property(x => x.MetaDescription).HasMaxLength(150).IsRequired();
             builder.Property(x => x.Slug).HasMaxLength(500).IsRequired();
+            builder.Property(x => x.Client).HasMaxLength(100).IsRequired();
+            builder.Property(x => x.Timeline).HasMaxLength(100).IsRequired();
 
             builder.HasOne(x => x.Category)
                 .WithMany(x => x.PortFolios)

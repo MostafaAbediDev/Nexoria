@@ -389,8 +389,8 @@ D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\6m1j0vwkbh-w085j
 D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\o0emtyr9nk-l0663vfr4d.gz
 D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\mzuxu9rvum-cfjqoozxm8.gz
 D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\oroup0wl5q-dixcipp2zx.gz
-D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\eejoz4n4tr-x4pruux0co.gz
 D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\wf3ggry5bt-qkzrm68k9u.gz
 D:\Nexoria\Code\Nexpria\ServiceHost\bin\Debug\net9.0\01_NexoraiQuery.dll
 D:\Nexoria\Code\Nexpria\ServiceHost\bin\Debug\net9.0\01_NexoraiQuery.pdb
 D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\ServiceHost.MvcApplicationPartsAssemblyInfo.cs
+D:\Nexoria\Code\Nexpria\ServiceHost\obj\Debug\net9.0\compressed\eejoz4n4tr-8llwr84i8m.gz

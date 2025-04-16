@@ -28,8 +28,28 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/Nexoria/Code/Nexpria/ServiceHost/Areas/Administration/Pages/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Nexoria/Code/Nexpria/ServiceHost/Areas/Administration/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nexoria/Code/Nexpria/ServiceHost/Areas/Administration/Pages/PortFolio/About/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcUG9ydEZvbGlvXEFib3V0XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nexoria/Code/Nexpria/ServiceHost/Areas/Administration/Pages/PortFolio/About/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcUG9ydEZvbGlvXEFib3V0XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nexoria/Code/Nexpria/ServiceHost/Areas/Administration/Pages/PortFolio/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcUG9ydEZvbGlvXEFib3V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nexoria/Code/Nexpria/ServiceHost/Areas/Administration/Pages/PortFolio/Comment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcUG9ydEZvbGlvXENvbW1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Nexoria/Code/Nexpria/ServiceHost/Areas/Administration/Pages/PortFolio/Hero/Create.cshtml]
@@ -88,8 +108,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Nexoria/Code/Nexpria/ServiceHost/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Nexoria/Code/Nexpria/ServiceHost/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nexoria/Code/Nexpria/ServiceHost/Pages/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Nexoria/Code/Nexpria/ServiceHost/Pages/Index.cshtml]
@@ -102,6 +130,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Nexoria/Code/Nexpria/ServiceHost/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nexoria/Code/Nexpria/ServiceHost/Pages/Shared/Components/About/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcQWJvdXRcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Nexoria/Code/Nexpria/ServiceHost/Pages/Shared/Components/Footer/Default.cshtml]
@@ -122,6 +154,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Nexoria/Code/Nexpria/ServiceHost/Pages/Shared/Components/PortFolio/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcUG9ydEZvbGlvXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Nexoria/Code/Nexpria/ServiceHost/Pages/Shared/Components/ProjectModal/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcUHJvamVjdE1vZGFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Nexoria/Code/Nexpria/ServiceHost/Pages/Shared/_ValidationScriptsPartial.cshtml]

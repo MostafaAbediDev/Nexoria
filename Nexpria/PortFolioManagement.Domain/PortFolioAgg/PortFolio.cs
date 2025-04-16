@@ -12,6 +12,8 @@ namespace PortFolioManagement.Domain.PortFolioAgg
         public long CategoryId { get; private set; }
         public string ShortDescrioption { get; private set; }
         public string Description { get; private set; }
+        public string Client { get; private set; }
+        public string Timeline { get; private set; }
         public string Slug { get; private set; }
         public string Keywords { get; private set; }
         public string MetaDescription { get; private set; }
@@ -20,7 +22,7 @@ namespace PortFolioManagement.Domain.PortFolioAgg
 
         public PortFolio(string title, string picture, string pictureAlt,
             string pictureTitle, long categoryId, string shortDescrioption, string description, 
-            string slug, string keywords, string metaDescription)
+            string client, string timeline, string slug, string keywords, string metaDescription)
         {
             Title = title;
             Picture = picture;
@@ -29,24 +31,31 @@ namespace PortFolioManagement.Domain.PortFolioAgg
             CategoryId = categoryId;
             ShortDescrioption = shortDescrioption;
             Description = description;
+            Client = client;
+            Timeline = timeline;
             Slug = slug;
             Keywords = keywords;
             MetaDescription = metaDescription;
             IsRemoved = true;
+            
         }
 
-        public void Edit(string title, string picture, string pictureAlt,
-            string pictureTitle, long categoryId, string shortDescrioption, string description, 
+        public void Edit(string title, string picture, string pictureAlt,string pictureTitle, 
+            long categoryId, string shortDescrioption, string description, string client, string timeline,
             string slug, string keywords, string metaDescription)
         {
             Title = title;
+
             if(!string.IsNullOrWhiteSpace(picture))
                 Picture = picture;
+
             PictureAlt = pictureAlt;
             PictureTitle = pictureTitle;
             CategoryId = categoryId;
             ShortDescrioption = shortDescrioption;
             Description = description;
+            Client = client; 
+            Timeline = timeline;
             Slug = slug;
             Keywords = keywords;
             MetaDescription = metaDescription;

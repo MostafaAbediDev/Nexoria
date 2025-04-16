@@ -1,0 +1,34 @@
+﻿@model _01_NexoraiQuery.Contract.ProjectModal.ProjectQueryModel
+
+
+<div class="project-modal" id="projectModal" style="display: none;">
+    <div class="modal-overlay"></div>
+    <div class="modal-container">
+        <button class="modal-close" onclick="closeModal()">&times;</button>
+        <div class="modal-content">
+            <div class="modal-image">
+                <img src="" alt="Project Image" id="modalImage">
+            </div>
+            <div class="modal-details">
+                <h2 id="modalTitle"></h2>
+                <div class="modal-tags" id="modalTags"></div>
+                <div class="modal-description" id="modalDescription"></div>
+                <div class="modal-info">
+                    <div class="info-item">
+                        <h4>Client</h4>
+                        <p id="modalClient"></p>
+                    </div>
+                    <div class="info-item">
+                        <h4>Timeline</h4>
+                        <p id="modalTimeline"></p>
+                    </div>
+                    <div class="info-item">
+                        <h4>Services Provided</h4>
+                        <p id="modalServices"></p>
+                    </div>
+                </div>
+                <div class="modal-results" id="modalResults"></div>
+            </div>
+        </div>
+    </div>
+</div>

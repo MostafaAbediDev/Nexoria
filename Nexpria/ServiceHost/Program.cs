@@ -1,5 +1,4 @@
-using _0_FrameWork.Application;
-using Microsoft.Extensions.Configuration;
+﻿using _0_FrameWork.Application;
 using PortFolioManagement.Configuration;
 using ServiceHost;
 
@@ -9,12 +8,19 @@ var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("NexoriaDb");
 
 PortFolioManagementBoostrapper.Configure(builder.Services, connectionString);
+//CommentManagementBootstrapper.Configure(builder.Services, connectionString);
 
 builder.Services.AddTransient<IFileUploader,FileUploader>();
 
+
 builder.Services.AddRazorPages();
+builder.Services.AddSession(); // اضافه کن
+
+
 
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -27,6 +33,8 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseRouting();
+app.UseSession(); // اضافه کن
+
 
 app.UseAuthorization();
 

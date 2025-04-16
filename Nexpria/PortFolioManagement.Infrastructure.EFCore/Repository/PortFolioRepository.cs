@@ -25,6 +25,8 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
                 PictureTitle = x.PictureTitle,
                 CategoryId = x.CategoryId,
                 Description = x.Description,
+                Client = x.Client,
+                Timeline = x.Timeline,
                 ShortDescription = x.ShortDescrioption,
                 Slug = x.Slug,
                 Keywords = x.Keywords,
@@ -40,6 +42,7 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
                 Id = x.Id,
                 Title = x.Title,
                 Picture = x.Picture,
+                Description = x.Description,
                 ShortDescription = x.ShortDescrioption
             }).ToList();
         }
@@ -64,6 +67,7 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
                     Picture = x.Picture,
                     Category = x.Category.Name,
                     CategoryId = x.CategoryId,
+                    Description = x.Description,
                     ShortDescription = x.ShortDescrioption,
                     CreationDate = x.CreationDate.ToString()
                 });

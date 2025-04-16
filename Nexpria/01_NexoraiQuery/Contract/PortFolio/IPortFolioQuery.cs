@@ -3,5 +3,7 @@
     public interface IPortFolioQuery
     {
         List<PortFolioQueryModel> GetPortFolios();
+        //PortFolioQueryModel GetProjects(string slug);
+
     }
 }

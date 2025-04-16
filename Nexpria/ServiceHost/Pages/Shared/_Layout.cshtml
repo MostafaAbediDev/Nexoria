@@ -46,7 +46,7 @@
                 <li><a href="#services">Services</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#testimonials">Testimonials</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a asp-page="./Contact">Contact</a></li>
             </ul>
         </div>
     </nav>
@@ -72,37 +72,7 @@
         <i class="fas fa-chevron-up"></i>
     </button>
 
-    <div class="project-modal" id="projectModal">
-        <div class="modal-overlay"></div>
-        <div class="modal-container">
-            <button class="modal-close">&times;</button>
-            <div class="modal-content">
-                <div class="modal-image">
-                    <img src="" alt="Project Image" id="modalImage">
-                </div>
-                <div class="modal-details">
-                    <h2 id="modalTitle"></h2>
-                    <div class="modal-tags" id="modalTags"></div>
-                    <div class="modal-description" id="modalDescription"></div>
-                    <div class="modal-info">
-                        <div class="info-item">
-                            <h4>Client</h4>
-                            <p id="modalClient"></p>
-                        </div>
-                        <div class="info-item">
-                            <h4>Timeline</h4>
-                            <p id="modalTimeline"></p>
-                        </div>
-                        <div class="info-item">
-                            <h4>Services Provided</h4>
-                            <p id="modalServices"></p>
-                        </div>
-                    </div>
-                    <div class="modal-results" id="modalResults"></div>
-                </div>
-            </div>
-        </div>
-    </div>
+    @await Component.InvokeAsync("ProjectModal") 
 
     <!-- Scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/js/all.min.js"></script>
@@ -116,6 +86,7 @@
     <!-- Particles.js for hero background animation -->
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
     <script src="~/Theme/assets/js/particles-config.js"></script>
+
 
 </body>
 </html> 
