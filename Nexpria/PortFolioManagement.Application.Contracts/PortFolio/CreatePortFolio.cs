@@ -21,6 +21,8 @@ namespace PortFolioManagement.Application.Contracts.PortFolio
         public string Description { get; set; }
         public string Client { get; set; }
         public string Timeline { get; set; }
+        public string Services { get; set; }
+        public string Results { get; set; }
 
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string Slug { get; set; }

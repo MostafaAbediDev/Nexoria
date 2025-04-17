@@ -4,6 +4,6 @@ namespace _01_NexoraiQuery.Contract.ProjectModal
 {
     public interface IProjectQuery
     {
-        ProjectQueryModel GetProjects();
+        ProjectQueryModel GetProjectById(long id);
     }
 }

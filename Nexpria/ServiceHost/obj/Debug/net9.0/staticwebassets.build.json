@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "biPEFsyd+KuUx1eSPMb3Z301vEM6jx223fmJSG7Kstc=",
+  "Hash": "BLjPVQfab8o95/sPsnc1c/Z3aVdYGQaSKcpsPISi1Qw=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -1928,12 +1928,12 @@
       "OriginalItemSpec": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ServiceHost.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-8llwr84i8m.gz",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-oemecn71yv.gz",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "Theme/assets/js/modal#[.{fingerprint=8llwr84i8m}]?.js.gz",
+      "RelativePath": "Theme/assets/js/modal#[.{fingerprint=oemecn71yv}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1942,8 +1942,8 @@
       "RelatedAsset": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lwl777bhao",
-      "Integrity": "W8Ia/4V1k1bpik2V6lBUB6q1qjSpK+qhMPA+fksHtpk=",
+      "Fingerprint": "9pxhafhf1j",
+      "Integrity": "3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js"
@@ -11336,6 +11336,69 @@
       "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg"
     },
     {
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "79zlo9vg88",
+      "Integrity": "u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg"
+    },
+    {
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n0gqtis1hj",
+      "Integrity": "aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg"
+    },
+    {
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y279yfao33",
+      "Integrity": "5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg"
+    },
+    {
       "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\css\\animations.css",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
@@ -11665,8 +11728,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8llwr84i8m",
-      "Integrity": "TBCd9j4rCXEPrp8v+hi1PNw+iJjzJylCnCu3oj3+X1s=",
+      "Fingerprint": "oemecn71yv",
+      "Integrity": "8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Theme\\assets\\js\\modal.js"
@@ -82193,6 +82256,252 @@
       ]
     },
     {
+      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.79zlo9vg88.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3346858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:17:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "79zlo9vg88"
+        },
+        {
+          "Name": "label",
+          "Value": "ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g="
+        }
+      ]
+    },
+    {
+      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3346858"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:17:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g="
+        }
+      ]
+    },
+    {
+      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6131372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:23:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y="
+        }
+      ]
+    },
+    {
+      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.n0gqtis1hj.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6131372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:23:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0gqtis1hj"
+        },
+        {
+          "Name": "label",
+          "Value": "ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y="
+        }
+      ]
+    },
+    {
+      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5599850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI="
+        }
+      ]
+    },
+    {
+      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.y279yfao33.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5599850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:37:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y279yfao33"
+        },
+        {
+          "Name": "label",
+          "Value": "ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI="
+        }
+      ]
+    },
+    {
       "Route": "ServiceHost.bundle.scp.css",
       "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\ebsnhti3oj-th8s6aslzz.gz",
       "Selectors": [
@@ -85099,13 +85408,13 @@
       ]
     },
     {
-      "Route": "Theme/assets/js/modal.8llwr84i8m.js",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-8llwr84i8m.gz",
+      "Route": "Theme/assets/js/modal.js",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-oemecn71yv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000999000999"
+          "Quality": "0.000834028357"
         }
       ],
       "ResponseHeaders": [
@@ -85115,19 +85424,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1000"
+          "Value": "1198"
         },
         {
           "Name": "ETag",
-          "Value": "\"W8Ia/4V1k1bpik2V6lBUB6q1qjSpK+qhMPA+fksHtpk=\""
+          "Value": "\"3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 11:52:00 GMT"
+          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -85143,26 +85452,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"TBCd9j4rCXEPrp8v+hi1PNw+iJjzJylCnCu3oj3+X1s=\""
+          "Value": "W/\"8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "8llwr84i8m"
-        },
-        {
-          "Name": "label",
-          "Value": "Theme/assets/js/modal.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-TBCd9j4rCXEPrp8v+hi1PNw+iJjzJylCnCu3oj3+X1s="
+          "Value": "sha256-8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns="
         }
       ]
     },
     {
-      "Route": "Theme/assets/js/modal.8llwr84i8m.js",
+      "Route": "Theme/assets/js/modal.js",
       "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -85172,7 +85473,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3314"
+          "Value": "4163"
         },
         {
           "Name": "Content-Type",
@@ -85180,11 +85481,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TBCd9j4rCXEPrp8v+hi1PNw+iJjzJylCnCu3oj3+X1s=\""
+          "Value": "\"8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 11:52:00 GMT"
+          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns="
+        }
+      ]
+    },
+    {
+      "Route": "Theme/assets/js/modal.js.gz",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-oemecn71yv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1198"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug="
+        }
+      ]
+    },
+    {
+      "Route": "Theme/assets/js/modal.oemecn71yv.js",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-oemecn71yv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000834028357"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1198"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oemecn71yv"
+        },
+        {
+          "Name": "label",
+          "Value": "Theme/assets/js/modal.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns="
+        }
+      ]
+    },
+    {
+      "Route": "Theme/assets/js/modal.oemecn71yv.js",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4163"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85194,7 +85640,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8llwr84i8m"
+          "Value": "oemecn71yv"
         },
         {
           "Name": "label",
@@ -85202,13 +85648,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TBCd9j4rCXEPrp8v+hi1PNw+iJjzJylCnCu3oj3+X1s="
+          "Value": "sha256-8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns="
         }
       ]
     },
     {
-      "Route": "Theme/assets/js/modal.8llwr84i8m.js.gz",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-8llwr84i8m.gz",
+      "Route": "Theme/assets/js/modal.oemecn71yv.js.gz",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-oemecn71yv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -85217,7 +85663,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1000"
+          "Value": "1198"
         },
         {
           "Name": "Content-Type",
@@ -85225,11 +85671,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"W8Ia/4V1k1bpik2V6lBUB6q1qjSpK+qhMPA+fksHtpk=\""
+          "Value": "\"3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 11:52:00 GMT"
+          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85247,7 +85693,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8llwr84i8m"
+          "Value": "oemecn71yv"
         },
         {
           "Name": "label",
@@ -85255,144 +85701,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-W8Ia/4V1k1bpik2V6lBUB6q1qjSpK+qhMPA+fksHtpk="
-        }
-      ]
-    },
-    {
-      "Route": "Theme/assets/js/modal.js",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-8llwr84i8m.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000999000999"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1000"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"W8Ia/4V1k1bpik2V6lBUB6q1qjSpK+qhMPA+fksHtpk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 11:52:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"TBCd9j4rCXEPrp8v+hi1PNw+iJjzJylCnCu3oj3+X1s=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-TBCd9j4rCXEPrp8v+hi1PNw+iJjzJylCnCu3oj3+X1s="
-        }
-      ]
-    },
-    {
-      "Route": "Theme/assets/js/modal.js",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3314"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"TBCd9j4rCXEPrp8v+hi1PNw+iJjzJylCnCu3oj3+X1s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 11:52:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-TBCd9j4rCXEPrp8v+hi1PNw+iJjzJylCnCu3oj3+X1s="
-        }
-      ]
-    },
-    {
-      "Route": "Theme/assets/js/modal.js.gz",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-8llwr84i8m.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1000"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"W8Ia/4V1k1bpik2V6lBUB6q1qjSpK+qhMPA+fksHtpk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 11 Apr 2025 11:52:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-W8Ia/4V1k1bpik2V6lBUB6q1qjSpK+qhMPA+fksHtpk="
+          "Value": "sha256-3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug="
         }
       ]
     },

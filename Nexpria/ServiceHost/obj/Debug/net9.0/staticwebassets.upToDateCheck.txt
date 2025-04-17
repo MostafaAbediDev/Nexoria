@@ -533,6 +533,9 @@ wwwroot\ProductPicture\هوش مصنوعی\2025-04-09-15-40-04-7046.jpg
 wwwroot\ProductPicture\هوش مصنوعی\2025-04-09-21-02-07-31193.jpg
 wwwroot\ProductPicture\هوش مصنوعی\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg
 wwwroot\ProductPicture\هوش مصنوعی\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg
+wwwroot\ProductPicture\هوش مصنوعی\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg
+wwwroot\ProductPicture\هوش مصنوعی\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg
+wwwroot\ProductPicture\هوش مصنوعی\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg
 wwwroot\Theme\assets\css\animations.css
 wwwroot\Theme\assets\css\style.css
 wwwroot\Theme\assets\images\about-us.jpg

@@ -53,8 +53,10 @@ namespace _01_NexoraiQuery.Query
                     Id = x.Id,
                     Name = x.Name,
                     ShortDescription= x.ShortDescription,
+                    Keywords = x.Keywords,
                     PortFolios = MapPortFolios(x.PortFolios),
                 }).ToList();
+
         }
 
         private static List<PortFolioQueryModel> MapPortFolios(List<PortFolio> portFolios)
@@ -70,10 +72,19 @@ namespace _01_NexoraiQuery.Query
                     Picture = portFolio.Picture,
                     PictureAlt = portFolio.PictureAlt,
                     PictureTitle = portFolio.PictureTitle,
+                    Keywords= portFolio.Keywords,
                     ShortDescription = portFolio.ShortDescrioption,
                     Slug = portFolio.Slug
                 };
                 result.Add(item);
+
+                if (!string.IsNullOrWhiteSpace(item.Keywords))
+                {
+                    item.KeywordList = item.Keywords
+                    .Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                    .Select(k => k.Trim())
+                    .ToList();
+                }
             }
             return result;
         }

@@ -14,6 +14,8 @@ namespace PortFolioManagement.Domain.PortFolioAgg
         public string Description { get; private set; }
         public string Client { get; private set; }
         public string Timeline { get; private set; }
+        public string Services { get; private set; }
+        public string Results { get; private set; }
         public string Slug { get; private set; }
         public string Keywords { get; private set; }
         public string MetaDescription { get; private set; }
@@ -22,7 +24,8 @@ namespace PortFolioManagement.Domain.PortFolioAgg
 
         public PortFolio(string title, string picture, string pictureAlt,
             string pictureTitle, long categoryId, string shortDescrioption, string description, 
-            string client, string timeline, string slug, string keywords, string metaDescription)
+            string client, string timeline, string services, string results, string slug, 
+            string keywords, string metaDescription)
         {
             Title = title;
             Picture = picture;
@@ -33,6 +36,8 @@ namespace PortFolioManagement.Domain.PortFolioAgg
             Description = description;
             Client = client;
             Timeline = timeline;
+            Services = services;
+            Results = results;
             Slug = slug;
             Keywords = keywords;
             MetaDescription = metaDescription;
@@ -41,7 +46,8 @@ namespace PortFolioManagement.Domain.PortFolioAgg
         }
 
         public void Edit(string title, string picture, string pictureAlt,string pictureTitle, 
-            long categoryId, string shortDescrioption, string description, string client, string timeline,
+            long categoryId, string shortDescrioption, string description, string client, 
+            string timeline, string services, string results,
             string slug, string keywords, string metaDescription)
         {
             Title = title;
@@ -56,6 +62,8 @@ namespace PortFolioManagement.Domain.PortFolioAgg
             Description = description;
             Client = client; 
             Timeline = timeline;
+            Services = services;
+            Results = results;
             Slug = slug;
             Keywords = keywords;
             MetaDescription = metaDescription;

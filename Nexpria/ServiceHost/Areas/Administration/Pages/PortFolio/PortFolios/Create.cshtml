@@ -109,14 +109,30 @@
                     <span asp-validation-for="Timeline" class="error"></span>
                 </div>
             </div>
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label asp-for="Services " class="control-label">Services </label>
+                    <input type="text" class="form-control" asp-for="Services ">
+                    <span asp-validation-for="Services " class="error"></span>
+                </div>
+            </div>
+            
         </div>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6">
                 <div class="form-group no-margin">
                     <label asp-for="MetaDescription" class="control-label">MetaDescription</label>
                     <textarea class="form-control autogrow" asp-for="MetaDescription"
                               style="overflow: hidden; word-wrap: break-word; resize: horizontal; height: 104px;"></textarea>
                     <span asp-validation-for="MetaDescription" class="error"></span>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="Results " class="control-label">Results </label>
+                    <textarea class="form-control autogrow" asp-for="Results"
+                              style="overflow: hidden; word-wrap: break-word; resize: horizontal; height: 104px;"></textarea>
+                    <span asp-validation-for="Results " class="error"></span>
                 </div>
             </div>
         </div>

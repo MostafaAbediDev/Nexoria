@@ -1,83 +1,84 @@
-const projectModal = document.getElementById('projectModal');
-const modalOverlay = document.querySelector('.modal-overlay');
-const modalClose = document.querySelector('.modal-close');
-const modalImage = document.getElementById('modalImage');
-const modalTitle = document.getElementById('modalTitle');
-const modalTags = document.getElementById('modalTags');
-const modalDescription = document.getElementById('modalDescription');
-const modalClient = document.getElementById('modalClient');
-const modalTimeline = document.getElementById('modalTimeline');
-const modalServices = document.getElementById('modalServices');
-const modalResults = document.getElementById('modalResults');
+﻿// داخل fetch:
+document.querySelectorAll(".view-case-study").forEach(button => {
+    button.addEventListener("click", function (e) {
+        e.preventDefault();
 
-// Open Modal Function
-function openProjectModal(projectData) {
-    // Populate modal with project data
-    modalImage.src = projectData.picture;
-    modalImage.alt = projectData.title;
-    modalTitle.textContent = projectData.title;
+        const projectId = this.getAttribute("data-id");
 
-    // Set tags
-    modalTags.innerHTML = '';
-    projectData.tags.forEach(tag => {
-        const tagSpan = document.createElement('span');
-        tagSpan.textContent = tag;
-        modalTags.appendChild(tagSpan);
+        fetch(`/api/project/${projectId}`)
+            .then(response => response.json())
+            .then(data => {
+                // پر کردن اطلاعات عمومی
+                document.getElementById("modalTitle").textContent = data.title;
+                document.getElementById("modalImage").src = "/ProductPicture/" + data.picture;
+                document.getElementById("modalImage").alt = data.pictureAlt || "Project Image";
+                document.getElementById("modalImage").title = data.pictureTitle || "Project Image";
+                document.getElementById("modalDescription").textContent = data.description;
+                document.getElementById("modalClient").textContent = data.client;
+                document.getElementById("modalTimeline").textContent = data.timeline;
+
+                // نمایش services به صورت رشته با کاما جداشده
+                if (data.serviceList && data.serviceList.length > 0) {
+                    document.getElementById("modalServices").textContent = data.serviceList.join(', ');
+                } else {
+                    document.getElementById("modalServices").textContent = data.services || "-";
+                }
+
+                // نمایش results به صورت بولت‌دار
+                const resultsContainer = document.getElementById("modalResults");
+                resultsContainer.innerHTML = ""; // پاک کردن قبلی
+
+                // اگر نتیجه‌ها به صورت لیست باشه:
+                if (data.resultList && data.resultList.length > 0) {
+                    const ul = document.createElement("ul");
+                    data.resultList.forEach(result => {
+                        const li = document.createElement("li");
+                        li.textContent = result;
+                        ul.appendChild(li);
+                    });
+                    resultsContainer.appendChild(ul);
+                }
+                // اگر result فقط متن معمولی چندخطی باشه (با اینتر جدا شده)
+                else if (data.results) {
+                    const ul = document.createElement("ul");
+                    const lines = data.results.split(/\r?\n/).filter(line => line.trim() !== "");
+                    lines.forEach(line => {
+                        const li = document.createElement("li");
+                        li.textContent = line.trim();
+                        ul.appendChild(li);
+                    });
+                    resultsContainer.appendChild(ul);
+                }
+
+
+                // تگ‌ها (keywords)
+                const tagsContainer = document.getElementById("modalTags");
+                tagsContainer.innerHTML = "";
+                if (data.keywordList && data.keywordList.length > 0) {
+                    data.keywordList.forEach(tag => {
+                        const tagList = tag.split(/\s*,\s*|\s+/).filter(Boolean);
+                        tagList.forEach(t => {
+                            const span = document.createElement("span");
+                            span.textContent = t;
+                            span.classList.add("tag");
+                            tagsContainer.appendChild(span);
+                        });
+                    });
+                }
+
+                // نمایش مدال
+                const modal = document.getElementById("projectModal");
+                modal.style.display = "block";
+                modal.style.opacity = "1";
+                modal.style.visibility = "visible";
+                modal.style.zIndex = "9999";
+
+            })
+            .catch(err => {
+                console.error("خطا در دریافت اطلاعات:", err);
+                alert("دریافت اطلاعات پروژه با خطا مواجه شد.");
+            });
     });
 
-    // Set description and other details
-    modalDescription.innerHTML = projectData.description;
-    modalClient.textContent = projectData.client;
-    modalTimeline.textContent = projectData.timeline;
-    modalServices.textContent = projectData.services;
-    modalResults.innerHTML = projectData.results;
-
-    // Show modal
-    projectModal.classList.add('active');
-    document.body.style.overflow = 'hidden'; // Prevent scrolling
-}
-
-// Close Modal Function
-function closeProjectModal() {
-    projectModal.classList.remove('active');
-    document.body.style.overflow = ''; // Restore scrolling
-}
-
-// Event Listeners
-modalClose.addEventListener('click', closeProjectModal);
-modalOverlay.addEventListener('click', closeProjectModal);
-
-// Handle escape key
-document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && projectModal.classList.contains('active')) {
-        closeProjectModal();
-    }
 });
 
-// Initialize Modal Triggers
-document.addEventListener('DOMContentLoaded', () => {
-    // Find all "View Case Study" buttons
-    const viewButtons = document.querySelectorAll('.view-case-study');
-
-    // Add click event listeners to each button
-    viewButtons.forEach((button) => {
-        button.addEventListener('click', (e) => {
-            e.preventDefault();
-
-            const projectData = {
-                id: button.getAttribute('data-id'),
-                title: button.getAttribute('data-title'),
-                client: button.getAttribute('data-client'),
-                description: button.getAttribute('data-description'),
-                timeline: button.getAttribute('data-timeline'),
-                picture: button.getAttribute('data-picture'),
-                // Tags, services, and results can be included as needed
-                tags: ['tag1', 'tag2'],  // Example, dynamically add if necessary
-                services: 'Service Details',  // Example, dynamically add if necessary
-                results: 'Project Results'   // Example, dynamically add if necessary
-            };
-
-            openProjectModal(projectData);
-        });
-    });
-});

@@ -27,6 +27,8 @@ namespace PortFolioManagement.Infrastructure.EFCore.Repository
                 Description = x.Description,
                 Client = x.Client,
                 Timeline = x.Timeline,
+                Services = x.Services,
+                Results = x.Results,
                 ShortDescription = x.ShortDescrioption,
                 Slug = x.Slug,
                 Keywords = x.Keywords,

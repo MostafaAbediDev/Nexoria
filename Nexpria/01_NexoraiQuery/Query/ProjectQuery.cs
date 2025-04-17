@@ -1,5 +1,4 @@
-﻿using _01_NexoraiQuery.Contract.PortFolio;
-using _01_NexoraiQuery.Contract.ProjectModal;
+﻿using _01_NexoraiQuery.Contract.ProjectModal;
 using Microsoft.EntityFrameworkCore;
 using PortFolioManagement.Infrastructure.EFCore;
 
@@ -14,26 +13,58 @@ namespace _01_NexoraiQuery.Query
             _context = context;
         }
 
-        public ProjectQueryModel GetProjects()
+        public ProjectQueryModel GetProjectById(long id)
         {
-            return _context.PortFolios
+            var project = _context.PortFolios
                 .Include(x => x.Category)
                 .Select(x => new ProjectQueryModel
                 {
                     Id = x.Id,
-                    Category = x.Category.Name,
-                    Title = x.Title,
-                    MetaDescription = x.MetaDescription,
                     Picture = x.Picture,
                     PictureAlt = x.PictureAlt,
                     PictureTitle = x.PictureTitle,
+                    Title = x.Title,
+                    Keywords = x.Keywords,
                     Description = x.Description,
                     Client = x.Client,
                     Timeline = x.Timeline,
-                    Keywords = x.Keywords,
+                    Services = x.Services,
+                    Results = x.Results,
+                    MetaDescription = x.MetaDescription,
                     Slug = x.Slug,
-                }).FirstOrDefault();
+                }).FirstOrDefault(x => x.Id == id);
+
+            if (!string.IsNullOrWhiteSpace(project.Keywords))
+            {
+                project.KeywordList = project.Keywords
+                .Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(k => k.Trim())
+                .ToList();
+            }
+
+
+
+            if (!string.IsNullOrWhiteSpace(project.Services))
+            {
+                project.ServiceList = project.Services
+                    .Split(',', StringSplitOptions.RemoveEmptyEntries)
+                    .Select(k => k.Trim()) // حذف فاصله‌های اضافه
+                    .ToList();
+            }
+
+
+            if (!string.IsNullOrWhiteSpace(project.Results))
+            {
+                project.ResultList = project.Results
+                    .Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries)
+                    .ToList();
+            }
+
+
+
+            return project;
         }
+
     }
 }
 

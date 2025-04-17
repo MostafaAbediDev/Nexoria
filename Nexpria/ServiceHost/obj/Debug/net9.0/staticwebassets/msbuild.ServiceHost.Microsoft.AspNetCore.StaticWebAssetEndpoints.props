@@ -3900,6 +3900,42 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n0gqtis1hj"},{"Name":"integrity","Value":"sha256-aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi\u002Bz8NQVQt1Y="},{"Name":"label","Value":"_content/ServiceHost/ProductPicture/\u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06CC/2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6131372"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi\u002Bz8NQVQt1Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 10 Apr 2025 11:04:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.79zlo9vg88.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"79zlo9vg88"},{"Name":"integrity","Value":"sha256-u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g="},{"Name":"label","Value":"_content/ServiceHost/ProductPicture/\u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06CC/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3346858"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 13:17:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3346858"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 13:17:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi\u002Bz8NQVQt1Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6131372"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi\u002Bz8NQVQt1Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 13:23:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.n0gqtis1hj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n0gqtis1hj"},{"Name":"integrity","Value":"sha256-aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi\u002Bz8NQVQt1Y="},{"Name":"label","Value":"_content/ServiceHost/ProductPicture/\u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06CC/2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6131372"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi\u002Bz8NQVQt1Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 13:23:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5599850"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 13:37:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.y279yfao33.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y279yfao33"},{"Name":"integrity","Value":"sha256-5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI="},{"Name":"label","Value":"_content/ServiceHost/ProductPicture/\u0647\u0648\u0634 \u0645\u0635\u0646\u0648\u0639\u06CC/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5599850"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 13:37:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ServiceHost/ServiceHost.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ServiceHost.th8s6aslzz.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -4092,17 +4128,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pZocgUlb64hbPrrlJY0WyWw5Myff0/aN6S/HWnLkauE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18786"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022pZocgUlb64hbPrrlJY0WyWw5Myff0/aN6S/HWnLkauE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 31 Mar 2025 13:19:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/ServiceHost/Theme/assets/js/modal.8llwr84i8m.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Theme\assets\js\modal.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8llwr84i8m"},{"Name":"integrity","Value":"sha256-TBCd9j4rCXEPrp8v\u002Bhi1PNw\u002BiJjzJylCnCu3oj3\u002BX1s="},{"Name":"label","Value":"_content/ServiceHost/Theme/assets/js/modal.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3314"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022TBCd9j4rCXEPrp8v\u002Bhi1PNw\u002BiJjzJylCnCu3oj3\u002BX1s=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 11:52:00 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ServiceHost/Theme/assets/js/modal.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Theme\assets\js\modal.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-TBCd9j4rCXEPrp8v\u002Bhi1PNw\u002BiJjzJylCnCu3oj3\u002BX1s="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3314"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022TBCd9j4rCXEPrp8v\u002Bhi1PNw\u002BiJjzJylCnCu3oj3\u002BX1s=\u0022"},{"Name":"Last-Modified","Value":"Fri, 11 Apr 2025 11:52:00 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8GBYEXNiHb4AK8ByMvnjagsB69N\u002BwV9LRnXxH/T9wns="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4163"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00228GBYEXNiHb4AK8ByMvnjagsB69N\u002BwV9LRnXxH/T9wns=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 13:56:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ServiceHost/Theme/assets/js/modal.oemecn71yv.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Theme\assets\js\modal.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oemecn71yv"},{"Name":"integrity","Value":"sha256-8GBYEXNiHb4AK8ByMvnjagsB69N\u002BwV9LRnXxH/T9wns="},{"Name":"label","Value":"_content/ServiceHost/Theme/assets/js/modal.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4163"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00228GBYEXNiHb4AK8ByMvnjagsB69N\u002BwV9LRnXxH/T9wns=\u0022"},{"Name":"Last-Modified","Value":"Thu, 17 Apr 2025 13:56:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ServiceHost/Theme/assets/js/particles-config.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Theme\assets\js\particles-config.js'))</AssetFile>

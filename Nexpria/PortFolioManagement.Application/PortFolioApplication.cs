@@ -33,7 +33,7 @@ namespace PortFolioManagement.Application
 
             var PortFolio = new PortFolio(command.Title, fileName, command.PictureAlt,command.PictureTitle, 
                 command.CategoryId, command.ShortDescription, command.Description, command.Client, command.Timeline,
-                slug, command.Keywords, command.MetaDescription);
+                command.Services, command.Results, slug, command.Keywords, command.MetaDescription);
 
             _portFolioRepository.Create(PortFolio);
             _portFolioRepository.SaveChanges();
@@ -58,8 +58,8 @@ namespace PortFolioManagement.Application
             var fileName = _fileUploader.Upload(command.Picture,picturePath);
 
             PortFolio.Edit(command.Title, fileName, command.PictureAlt, command.PictureTitle, command.CategoryId,
-                command.ShortDescription, command.Description, command.Client, command.Timeline,
-                slug, command.Keywords, command.MetaDescription);
+                command.ShortDescription, command.Description, command.Client, command.Timeline, 
+                command.Services, command.Results, slug, command.Keywords, command.MetaDescription);
 
             _portFolioRepository.SaveChanges();
             return operation.Succedded();
