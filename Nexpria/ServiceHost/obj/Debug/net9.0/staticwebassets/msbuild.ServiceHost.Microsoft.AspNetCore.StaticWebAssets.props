@@ -5526,12 +5526,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery\LICENSE.txt'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\About\2025-04-12-00-32-42-pexels-pixabay-531321.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\About\2025-04-12-00-32-42-pexels-pixabay-531321.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321.jpg</RelativePath>
+      <RelativePath>ProjectPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5542,14 +5542,14 @@
       <Integrity>+i1EhF/IqZx/lm60TPLhwB8VC3wpLa4SjpJ8dycTCwk=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\About\2025-04-12-00-32-42-pexels-pixabay-531321.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\About\2025-04-12-00-32-42-pexels-pixabay-531321.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\About\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\About\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/About/2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg</RelativePath>
+      <RelativePath>ProjectPicture/About/2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5560,14 +5560,14 @@
       <Integrity>Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\About\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\About\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Our Team\2025-04-08-00-46-33-favicon.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Our Team\2025-04-08-00-46-33-favicon.png'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/Our Team/2025-04-08-00-46-33-favicon.png</RelativePath>
+      <RelativePath>ProjectPicture/Our Team/2025-04-08-00-46-33-favicon.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5578,14 +5578,14 @@
       <Integrity>p8gOz/KJYWkfKfpCjGsTeHAwmoN1w+iLtgg8YKGGn2Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Our Team\2025-04-08-00-46-33-favicon.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Our Team\2025-04-08-00-46-33-favicon.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-26-49-7046.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Software\2025-04-07-12-26-49-7046.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/Software/2025-04-07-12-26-49-7046.jpg</RelativePath>
+      <RelativePath>ProjectPicture/Software/2025-04-07-12-26-49-7046.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5596,14 +5596,14 @@
       <Integrity>Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-26-49-7046.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Software\2025-04-07-12-26-49-7046.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Software\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg</RelativePath>
+      <RelativePath>ProjectPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5614,14 +5614,14 @@
       <Integrity>/Hb7SPk/ixR7LlUD0/YshWkgIVnuz01bU8DnCynAazQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Software\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-28-05-39610.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Software\2025-04-07-12-28-05-39610.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/Software/2025-04-07-12-28-05-39610.jpg</RelativePath>
+      <RelativePath>ProjectPicture/Software/2025-04-07-12-28-05-39610.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5632,14 +5632,14 @@
       <Integrity>W3boWJ/P3iI8ToSM4i6IN6XaDF7uiB8H8oKzYPHVa+s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-07-12-28-05-39610.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Software\2025-04-07-12-28-05-39610.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Software\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/Software/2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg</RelativePath>
+      <RelativePath>ProjectPicture/Software/2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5650,14 +5650,14 @@
       <Integrity>Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Software\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-13-15-00-57-39663.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Software\2025-04-13-15-00-57-39663.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/Software/2025-04-13-15-00-57-39663.jpg</RelativePath>
+      <RelativePath>ProjectPicture/Software/2025-04-13-15-00-57-39663.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5668,14 +5668,14 @@
       <Integrity>JThJJjX0oheR2ZqIPCewlegFXI/TMjO2b4HOwc+ui3k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\Software\2025-04-13-15-00-57-39663.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\Software\2025-04-13-15-00-57-39663.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تجارت الکترونیک\2025-04-07-12-27-38-39663.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\تجارت الکترونیک\2025-04-07-12-27-38-39663.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663.jpg</RelativePath>
+      <RelativePath>ProjectPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5686,14 +5686,14 @@
       <Integrity>JThJJjX0oheR2ZqIPCewlegFXI/TMjO2b4HOwc+ui3k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تجارت الکترونیک\2025-04-07-12-27-38-39663.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\تجارت الکترونیک\2025-04-07-12-27-38-39663.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تجارت الکترونیک\2025-04-07-12-27-46-51809.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\تجارت الکترونیک\2025-04-07-12-27-46-51809.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809.jpg</RelativePath>
+      <RelativePath>ProjectPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5704,14 +5704,14 @@
       <Integrity>MuJCQ5uAPD7VagioqVMR/sEPcYs2KD5ccDv4rPdmqk4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\تجارت الکترونیک\2025-04-07-12-27-46-51809.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\تجارت الکترونیک\2025-04-07-12-27-46-51809.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-27-23-17520.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-07-12-27-23-17520.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-07-12-27-23-17520.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-07-12-27-23-17520.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5722,14 +5722,14 @@
       <Integrity>bVaG178xMjwK6snPk+nSWtd5VbOKAThZnlh8ToPvy3Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-27-23-17520.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-07-12-27-23-17520.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-27-29-39660.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-07-12-27-29-39660.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-07-12-27-29-39660.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-07-12-27-29-39660.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5740,14 +5740,14 @@
       <Integrity>mSKpufWA+CTqnv+ydHRUyXmf2keITsN8hMlzNYbmxVc=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-27-29-39660.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-07-12-27-29-39660.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-28-49-39663.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-07-12-28-49-39663.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-07-12-28-49-39663.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-07-12-28-49-39663.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5758,14 +5758,14 @@
       <Integrity>JThJJjX0oheR2ZqIPCewlegFXI/TMjO2b4HOwc+ui3k=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-12-28-49-39663.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-07-12-28-49-39663.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-17-28-05-7046.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-07-17-28-05-7046.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-07-17-28-05-7046.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-07-17-28-05-7046.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5776,14 +5776,14 @@
       <Integrity>Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-07-17-28-05-7046.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-07-17-28-05-7046.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-09-15-40-04-7046.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-09-15-40-04-7046.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-09-15-40-04-7046.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-09-15-40-04-7046.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5794,14 +5794,14 @@
       <Integrity>Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-09-15-40-04-7046.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-09-15-40-04-7046.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-09-21-02-07-31193.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-09-21-02-07-31193.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-09-21-02-07-31193.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-09-21-02-07-31193.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5812,14 +5812,14 @@
       <Integrity>ujtEn7HfwPqmcPDGL08Z5l14DfeTUzL8r86SmFGZszM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-09-21-02-07-31193.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-09-21-02-07-31193.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5830,14 +5830,14 @@
       <Integrity>5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5848,14 +5848,14 @@
       <Integrity>aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5866,14 +5866,14 @@
       <Integrity>u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5884,14 +5884,14 @@
       <Integrity>aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>ServiceHost</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/ServiceHost</BasePath>
-      <RelativePath>ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg</RelativePath>
+      <RelativePath>ProjectPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -5902,7 +5902,7 @@
       <Integrity>5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProductPicture\هوش مصنوعی\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ProjectPicture\هوش مصنوعی\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ServiceHost.th8s6aslzz.bundle.scp.css'))">
       <SourceType>Package</SourceType>
@@ -6204,8 +6204,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>oemecn71yv</Fingerprint>
-      <Integrity>8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=</Integrity>
+      <Fingerprint>g28dk8utdd</Fingerprint>
+      <Integrity>GD6xIYWUzZtC8GlpzvYUMDzY3wV4jAfYvlxCo8j7WS8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Theme\assets\js\modal.js'))</OriginalItemSpec>

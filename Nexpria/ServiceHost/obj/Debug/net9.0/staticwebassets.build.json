@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BLjPVQfab8o95/sPsnc1c/Z3aVdYGQaSKcpsPISi1Qw=",
+  "Hash": "uSdQKexSiUk5SnDQWbLwLZlEJtvdzKtFGV0Co/z4iO8=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -1928,12 +1928,12 @@
       "OriginalItemSpec": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ServiceHost.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-oemecn71yv.gz",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-g28dk8utdd.gz",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "Theme/assets/js/modal#[.{fingerprint=oemecn71yv}]?.js.gz",
+      "RelativePath": "Theme/assets/js/modal#[.{fingerprint=g28dk8utdd}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1942,8 +1942,8 @@
       "RelatedAsset": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "9pxhafhf1j",
-      "Integrity": "3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug=",
+      "Fingerprint": "bnrarh1h1l",
+      "Integrity": "iSYZsG0zlU76I9D/vXLXmY4FJFNhJQYm3KEw3wE0EzA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js"
@@ -10958,12 +10958,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\About\\2025-04-12-00-32-42-pexels-pixabay-531321.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\About\\2025-04-12-00-32-42-pexels-pixabay-531321.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -10976,15 +10976,15 @@
       "Integrity": "+i1EhF/IqZx/lm60TPLhwB8VC3wpLa4SjpJ8dycTCwk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\About\\2025-04-12-00-32-42-pexels-pixabay-531321.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\About\\2025-04-12-00-32-42-pexels-pixabay-531321.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\About\\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\About\\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/About/2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/About/2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -10997,15 +10997,15 @@
       "Integrity": "Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\About\\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\About\\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Our Team\\2025-04-08-00-46-33-favicon.png",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Our Team\\2025-04-08-00-46-33-favicon.png",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/Our Team/2025-04-08-00-46-33-favicon#[.{fingerprint}]?.png",
+      "RelativePath": "ProjectPicture/Our Team/2025-04-08-00-46-33-favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11018,15 +11018,15 @@
       "Integrity": "p8gOz/KJYWkfKfpCjGsTeHAwmoN1w+iLtgg8YKGGn2Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\Our Team\\2025-04-08-00-46-33-favicon.png"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\Our Team\\2025-04-08-00-46-33-favicon.png"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-07-12-26-49-7046.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-07-12-26-49-7046.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/Software/2025-04-07-12-26-49-7046#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/Software/2025-04-07-12-26-49-7046#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11039,15 +11039,15 @@
       "Integrity": "Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\Software\\2025-04-07-12-26-49-7046.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\Software\\2025-04-07-12-26-49-7046.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11060,15 +11060,15 @@
       "Integrity": "/Hb7SPk/ixR7LlUD0/YshWkgIVnuz01bU8DnCynAazQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\Software\\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\Software\\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-07-12-28-05-39610.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-07-12-28-05-39610.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/Software/2025-04-07-12-28-05-39610#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/Software/2025-04-07-12-28-05-39610#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11081,15 +11081,15 @@
       "Integrity": "W3boWJ/P3iI8ToSM4i6IN6XaDF7uiB8H8oKzYPHVa+s=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\Software\\2025-04-07-12-28-05-39610.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\Software\\2025-04-07-12-28-05-39610.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/Software/2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/Software/2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11102,15 +11102,15 @@
       "Integrity": "Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\Software\\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\Software\\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-13-15-00-57-39663.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-13-15-00-57-39663.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/Software/2025-04-13-15-00-57-39663#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/Software/2025-04-13-15-00-57-39663#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11123,15 +11123,15 @@
       "Integrity": "JThJJjX0oheR2ZqIPCewlegFXI/TMjO2b4HOwc+ui3k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\Software\\2025-04-13-15-00-57-39663.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\Software\\2025-04-13-15-00-57-39663.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-07-12-27-38-39663.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-07-12-27-38-39663.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11144,15 +11144,15 @@
       "Integrity": "JThJJjX0oheR2ZqIPCewlegFXI/TMjO2b4HOwc+ui3k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-07-12-27-38-39663.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-07-12-27-38-39663.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-07-12-27-46-51809.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-07-12-27-46-51809.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11165,15 +11165,15 @@
       "Integrity": "MuJCQ5uAPD7VagioqVMR/sEPcYs2KD5ccDv4rPdmqk4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-07-12-27-46-51809.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-07-12-27-46-51809.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-27-23-17520.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-27-23-17520.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-07-12-27-23-17520#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-07-12-27-23-17520#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11186,15 +11186,15 @@
       "Integrity": "bVaG178xMjwK6snPk+nSWtd5VbOKAThZnlh8ToPvy3Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-27-23-17520.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-27-23-17520.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-27-29-39660.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-27-29-39660.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-07-12-27-29-39660#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-07-12-27-29-39660#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11207,15 +11207,15 @@
       "Integrity": "mSKpufWA+CTqnv+ydHRUyXmf2keITsN8hMlzNYbmxVc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-27-29-39660.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-27-29-39660.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-28-49-39663.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-28-49-39663.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-07-12-28-49-39663#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-07-12-28-49-39663#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11228,15 +11228,15 @@
       "Integrity": "JThJJjX0oheR2ZqIPCewlegFXI/TMjO2b4HOwc+ui3k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-28-49-39663.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-28-49-39663.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-17-28-05-7046.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-17-28-05-7046.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-07-17-28-05-7046#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-07-17-28-05-7046#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11249,15 +11249,15 @@
       "Integrity": "Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-17-28-05-7046.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-17-28-05-7046.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-15-40-04-7046.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-15-40-04-7046.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-09-15-40-04-7046#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-09-15-40-04-7046#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11270,15 +11270,15 @@
       "Integrity": "Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-15-40-04-7046.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-15-40-04-7046.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-21-02-07-31193.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-21-02-07-31193.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-09-21-02-07-31193#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-09-21-02-07-31193#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11291,15 +11291,15 @@
       "Integrity": "ujtEn7HfwPqmcPDGL08Z5l14DfeTUzL8r86SmFGZszM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-21-02-07-31193.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-21-02-07-31193.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11312,15 +11312,15 @@
       "Integrity": "5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-10-15-34-39-pexels-craig-adderley-1563356#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-10-15-34-39-pexels-craig-adderley-1563356#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11333,15 +11333,15 @@
       "Integrity": "aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11354,15 +11354,15 @@
       "Integrity": "u3FlE7DrzfZaT81eSu43bnMN7Ttlwwr3sPQFYBCMd0g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11375,15 +11375,15 @@
       "Integrity": "aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838#[.{fingerprint}]?.jpg",
+      "RelativePath": "ProjectPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11396,7 +11396,7 @@
       "Integrity": "5tXGaIb5IIzIEcnnFNwedQb7gtN0Fmm5WeMTg8PKrGI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg"
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg"
     },
     {
       "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\css\\animations.css",
@@ -11728,8 +11728,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "oemecn71yv",
-      "Integrity": "8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=",
+      "Fingerprint": "g28dk8utdd",
+      "Integrity": "GD6xIYWUzZtC8GlpzvYUMDzY3wV4jAfYvlxCo8j7WS8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Theme\\assets\\js\\modal.js"
@@ -80780,8 +80780,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321.iacn8ai8f3.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\About\\2025-04-12-00-32-42-pexels-pixabay-531321.jpg",
+      "Route": "ProjectPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321.iacn8ai8f3.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\About\\2025-04-12-00-32-42-pexels-pixabay-531321.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -80816,7 +80816,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321.jpg"
+          "Value": "ProjectPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321.jpg"
         },
         {
           "Name": "integrity",
@@ -80825,8 +80825,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\About\\2025-04-12-00-32-42-pexels-pixabay-531321.jpg",
+      "Route": "ProjectPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\About\\2025-04-12-00-32-42-pexels-pixabay-531321.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -80862,8 +80862,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/About/2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.a3emhovo09.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\About\\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg",
+      "Route": "ProjectPicture/About/2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.a3emhovo09.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\About\\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -80898,7 +80898,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/About/2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg"
+          "Value": "ProjectPicture/About/2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg"
         },
         {
           "Name": "integrity",
@@ -80907,8 +80907,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/About/2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\About\\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg",
+      "Route": "ProjectPicture/About/2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\About\\2025-04-12-01-10-18-john-lee-oMneOBYhJxY-unsplash.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -80944,8 +80944,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Our Team/2025-04-08-00-46-33-favicon.png",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Our Team\\2025-04-08-00-46-33-favicon.png",
+      "Route": "ProjectPicture/Our Team/2025-04-08-00-46-33-favicon.png",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Our Team\\2025-04-08-00-46-33-favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -80981,8 +80981,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Our Team/2025-04-08-00-46-33-favicon.rnlsgfgrjz.png",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Our Team\\2025-04-08-00-46-33-favicon.png",
+      "Route": "ProjectPicture/Our Team/2025-04-08-00-46-33-favicon.rnlsgfgrjz.png",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Our Team\\2025-04-08-00-46-33-favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81017,7 +81017,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/Our Team/2025-04-08-00-46-33-favicon.png"
+          "Value": "ProjectPicture/Our Team/2025-04-08-00-46-33-favicon.png"
         },
         {
           "Name": "integrity",
@@ -81026,8 +81026,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Software/2025-04-07-12-26-49-7046.e5qrx0pyt4.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-07-12-26-49-7046.jpg",
+      "Route": "ProjectPicture/Software/2025-04-07-12-26-49-7046.e5qrx0pyt4.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-07-12-26-49-7046.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81062,7 +81062,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/Software/2025-04-07-12-26-49-7046.jpg"
+          "Value": "ProjectPicture/Software/2025-04-07-12-26-49-7046.jpg"
         },
         {
           "Name": "integrity",
@@ -81071,8 +81071,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Software/2025-04-07-12-26-49-7046.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-07-12-26-49-7046.jpg",
+      "Route": "ProjectPicture/Software/2025-04-07-12-26-49-7046.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-07-12-26-49-7046.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81108,8 +81108,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.cgj2cr9xlt.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg",
+      "Route": "ProjectPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.cgj2cr9xlt.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81144,7 +81144,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg"
+          "Value": "ProjectPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg"
         },
         {
           "Name": "integrity",
@@ -81153,8 +81153,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg",
+      "Route": "ProjectPicture/Software/2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-07-12-27-10-pexels-guillaume-meurice-1591447.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81190,8 +81190,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Software/2025-04-07-12-28-05-39610.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-07-12-28-05-39610.jpg",
+      "Route": "ProjectPicture/Software/2025-04-07-12-28-05-39610.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-07-12-28-05-39610.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81227,8 +81227,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Software/2025-04-07-12-28-05-39610.z2fwa64cim.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-07-12-28-05-39610.jpg",
+      "Route": "ProjectPicture/Software/2025-04-07-12-28-05-39610.z2fwa64cim.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-07-12-28-05-39610.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81263,7 +81263,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/Software/2025-04-07-12-28-05-39610.jpg"
+          "Value": "ProjectPicture/Software/2025-04-07-12-28-05-39610.jpg"
         },
         {
           "Name": "integrity",
@@ -81272,8 +81272,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Software/2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.a3emhovo09.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg",
+      "Route": "ProjectPicture/Software/2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.a3emhovo09.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81308,7 +81308,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/Software/2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg"
+          "Value": "ProjectPicture/Software/2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg"
         },
         {
           "Name": "integrity",
@@ -81317,8 +81317,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Software/2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg",
+      "Route": "ProjectPicture/Software/2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-10-22-50-43-john-lee-oMneOBYhJxY-unsplash.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81354,8 +81354,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Software/2025-04-13-15-00-57-39663.7x7j9gv1ve.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-13-15-00-57-39663.jpg",
+      "Route": "ProjectPicture/Software/2025-04-13-15-00-57-39663.7x7j9gv1ve.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-13-15-00-57-39663.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81390,7 +81390,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/Software/2025-04-13-15-00-57-39663.jpg"
+          "Value": "ProjectPicture/Software/2025-04-13-15-00-57-39663.jpg"
         },
         {
           "Name": "integrity",
@@ -81399,8 +81399,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/Software/2025-04-13-15-00-57-39663.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\Software\\2025-04-13-15-00-57-39663.jpg",
+      "Route": "ProjectPicture/Software/2025-04-13-15-00-57-39663.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\Software\\2025-04-13-15-00-57-39663.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81436,8 +81436,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663.7x7j9gv1ve.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-07-12-27-38-39663.jpg",
+      "Route": "ProjectPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663.7x7j9gv1ve.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-07-12-27-38-39663.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81472,7 +81472,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663.jpg"
+          "Value": "ProjectPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663.jpg"
         },
         {
           "Name": "integrity",
@@ -81481,8 +81481,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-07-12-27-38-39663.jpg",
+      "Route": "ProjectPicture/تجارت الکترونیک/2025-04-07-12-27-38-39663.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-07-12-27-38-39663.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81518,8 +81518,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809.irf8ssdz16.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-07-12-27-46-51809.jpg",
+      "Route": "ProjectPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809.irf8ssdz16.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-07-12-27-46-51809.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81554,7 +81554,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809.jpg"
+          "Value": "ProjectPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809.jpg"
         },
         {
           "Name": "integrity",
@@ -81563,8 +81563,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-07-12-27-46-51809.jpg",
+      "Route": "ProjectPicture/تجارت الکترونیک/2025-04-07-12-27-46-51809.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-07-12-27-46-51809.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81600,8 +81600,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-07-12-27-23-17520.dgqmb70jv9.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-27-23-17520.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-07-12-27-23-17520.dgqmb70jv9.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-27-23-17520.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81636,7 +81636,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-07-12-27-23-17520.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-07-12-27-23-17520.jpg"
         },
         {
           "Name": "integrity",
@@ -81645,8 +81645,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-07-12-27-23-17520.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-27-23-17520.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-07-12-27-23-17520.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-27-23-17520.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81682,8 +81682,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-07-12-27-29-39660.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-27-29-39660.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-07-12-27-29-39660.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-27-29-39660.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81719,8 +81719,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-07-12-27-29-39660.rnlz5801mx.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-27-29-39660.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-07-12-27-29-39660.rnlz5801mx.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-27-29-39660.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81755,7 +81755,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-07-12-27-29-39660.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-07-12-27-29-39660.jpg"
         },
         {
           "Name": "integrity",
@@ -81764,8 +81764,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-07-12-28-49-39663.7x7j9gv1ve.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-28-49-39663.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-07-12-28-49-39663.7x7j9gv1ve.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-28-49-39663.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81800,7 +81800,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-07-12-28-49-39663.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-07-12-28-49-39663.jpg"
         },
         {
           "Name": "integrity",
@@ -81809,8 +81809,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-07-12-28-49-39663.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-12-28-49-39663.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-07-12-28-49-39663.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-28-49-39663.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81846,8 +81846,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-07-17-28-05-7046.e5qrx0pyt4.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-17-28-05-7046.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-07-17-28-05-7046.e5qrx0pyt4.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-17-28-05-7046.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81882,7 +81882,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-07-17-28-05-7046.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-07-17-28-05-7046.jpg"
         },
         {
           "Name": "integrity",
@@ -81891,8 +81891,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-07-17-28-05-7046.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-07-17-28-05-7046.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-07-17-28-05-7046.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-17-28-05-7046.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81928,8 +81928,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-09-15-40-04-7046.e5qrx0pyt4.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-15-40-04-7046.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-09-15-40-04-7046.e5qrx0pyt4.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-15-40-04-7046.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -81964,7 +81964,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-09-15-40-04-7046.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-09-15-40-04-7046.jpg"
         },
         {
           "Name": "integrity",
@@ -81973,8 +81973,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-09-15-40-04-7046.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-15-40-04-7046.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-09-15-40-04-7046.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-15-40-04-7046.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82010,8 +82010,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-09-21-02-07-31193.ipz6agof13.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-21-02-07-31193.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-09-21-02-07-31193.ipz6agof13.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-21-02-07-31193.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82046,7 +82046,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-09-21-02-07-31193.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-09-21-02-07-31193.jpg"
         },
         {
           "Name": "integrity",
@@ -82055,8 +82055,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-09-21-02-07-31193.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-21-02-07-31193.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-09-21-02-07-31193.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-21-02-07-31193.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82092,8 +82092,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82129,8 +82129,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.y279yfao33.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.y279yfao33.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82165,7 +82165,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-09-21-55-34-pexels-baskin-creative-studios-1766838.jpg"
         },
         {
           "Name": "integrity",
@@ -82174,8 +82174,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82211,8 +82211,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-10-15-34-39-pexels-craig-adderley-1563356.n0gqtis1hj.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-10-15-34-39-pexels-craig-adderley-1563356.n0gqtis1hj.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82247,7 +82247,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-10-15-34-39-pexels-craig-adderley-1563356.jpg"
         },
         {
           "Name": "integrity",
@@ -82256,8 +82256,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.79zlo9vg88.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.79zlo9vg88.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82292,7 +82292,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg"
         },
         {
           "Name": "integrity",
@@ -82301,8 +82301,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-17-47-42-garrett-parker-DlkF4-dbCOU-unsplash.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82338,8 +82338,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82375,8 +82375,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.n0gqtis1hj.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.n0gqtis1hj.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82411,7 +82411,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-17-17-53-18-pexels-craig-adderley-1563356.jpg"
         },
         {
           "Name": "integrity",
@@ -82420,8 +82420,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82457,8 +82457,8 @@
       ]
     },
     {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.y279yfao33.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
+      "Route": "ProjectPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.y279yfao33.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -82493,7 +82493,7 @@
         },
         {
           "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg"
+          "Value": "ProjectPicture/هوش مصنوعی/2025-04-17-18-07-12-pexels-baskin-creative-studios-1766838.jpg"
         },
         {
           "Name": "integrity",
@@ -85408,13 +85408,13 @@
       ]
     },
     {
-      "Route": "Theme/assets/js/modal.js",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-oemecn71yv.gz",
+      "Route": "Theme/assets/js/modal.g28dk8utdd.js",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-g28dk8utdd.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000834028357"
+          "Quality": "0.000807754443"
         }
       ],
       "ResponseHeaders": [
@@ -85424,19 +85424,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1198"
+          "Value": "1237"
         },
         {
           "Name": "ETag",
-          "Value": "\"3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug=\""
+          "Value": "\"iSYZsG0zlU76I9D/vXLXmY4FJFNhJQYm3KEw3wE0EzA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
+          "Value": "Fri, 18 Apr 2025 12:47:45 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -85452,18 +85452,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=\""
+          "Value": "W/\"GD6xIYWUzZtC8GlpzvYUMDzY3wV4jAfYvlxCo8j7WS8=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "g28dk8utdd"
+        },
+        {
+          "Name": "label",
+          "Value": "Theme/assets/js/modal.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns="
+          "Value": "sha256-GD6xIYWUzZtC8GlpzvYUMDzY3wV4jAfYvlxCo8j7WS8="
         }
       ]
     },
     {
-      "Route": "Theme/assets/js/modal.js",
+      "Route": "Theme/assets/js/modal.g28dk8utdd.js",
       "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -85473,7 +85481,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4163"
+          "Value": "4394"
         },
         {
           "Name": "Content-Type",
@@ -85481,121 +85489,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=\""
+          "Value": "\"GD6xIYWUzZtC8GlpzvYUMDzY3wV4jAfYvlxCo8j7WS8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns="
-        }
-      ]
-    },
-    {
-      "Route": "Theme/assets/js/modal.js.gz",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-oemecn71yv.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1198"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug="
-        }
-      ]
-    },
-    {
-      "Route": "Theme/assets/js/modal.oemecn71yv.js",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-oemecn71yv.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000834028357"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1198"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
+          "Value": "Fri, 18 Apr 2025 12:47:45 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oemecn71yv"
+          "Value": "g28dk8utdd"
         },
         {
           "Name": "label",
@@ -85603,13 +85511,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns="
+          "Value": "sha256-GD6xIYWUzZtC8GlpzvYUMDzY3wV4jAfYvlxCo8j7WS8="
         }
       ]
     },
     {
-      "Route": "Theme/assets/js/modal.oemecn71yv.js",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
+      "Route": "Theme/assets/js/modal.g28dk8utdd.js.gz",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-g28dk8utdd.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -85618,7 +85526,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4163"
+          "Value": "1237"
         },
         {
           "Name": "Content-Type",
@@ -85626,56 +85534,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns=\""
+          "Value": "\"iSYZsG0zlU76I9D/vXLXmY4FJFNhJQYm3KEw3wE0EzA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "oemecn71yv"
-        },
-        {
-          "Name": "label",
-          "Value": "Theme/assets/js/modal.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8GBYEXNiHb4AK8ByMvnjagsB69N+wV9LRnXxH/T9wns="
-        }
-      ]
-    },
-    {
-      "Route": "Theme/assets/js/modal.oemecn71yv.js.gz",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-oemecn71yv.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1198"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Apr 2025 13:56:55 GMT"
+          "Value": "Fri, 18 Apr 2025 12:47:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85693,7 +85556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oemecn71yv"
+          "Value": "g28dk8utdd"
         },
         {
           "Name": "label",
@@ -85701,7 +85564,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3Xov/xvmr3I5LHDX8Fo1w+qDcZ7bWeyjunC2kx6MNug="
+          "Value": "sha256-iSYZsG0zlU76I9D/vXLXmY4FJFNhJQYm3KEw3wE0EzA="
+        }
+      ]
+    },
+    {
+      "Route": "Theme/assets/js/modal.js",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-g28dk8utdd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000807754443"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1237"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iSYZsG0zlU76I9D/vXLXmY4FJFNhJQYm3KEw3wE0EzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 12:47:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GD6xIYWUzZtC8GlpzvYUMDzY3wV4jAfYvlxCo8j7WS8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GD6xIYWUzZtC8GlpzvYUMDzY3wV4jAfYvlxCo8j7WS8="
+        }
+      ]
+    },
+    {
+      "Route": "Theme/assets/js/modal.js",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GD6xIYWUzZtC8GlpzvYUMDzY3wV4jAfYvlxCo8j7WS8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 12:47:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GD6xIYWUzZtC8GlpzvYUMDzY3wV4jAfYvlxCo8j7WS8="
+        }
+      ]
+    },
+    {
+      "Route": "Theme/assets/js/modal.js.gz",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-g28dk8utdd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1237"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iSYZsG0zlU76I9D/vXLXmY4FJFNhJQYm3KEw3wE0EzA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 12:47:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iSYZsG0zlU76I9D/vXLXmY4FJFNhJQYm3KEw3wE0EzA="
         }
       ]
     },

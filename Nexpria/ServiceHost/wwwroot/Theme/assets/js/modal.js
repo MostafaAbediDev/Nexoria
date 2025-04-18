@@ -10,7 +10,7 @@ document.querySelectorAll(".view-case-study").forEach(button => {
             .then(data => {
                 // پر کردن اطلاعات عمومی
                 document.getElementById("modalTitle").textContent = data.title;
-                document.getElementById("modalImage").src = "/ProductPicture/" + data.picture;
+                document.getElementById("modalImage").src = "/ProjectPicture/" + data.picture;
                 document.getElementById("modalImage").alt = data.pictureAlt || "Project Image";
                 document.getElementById("modalImage").title = data.pictureTitle || "Project Image";
                 document.getElementById("modalDescription").textContent = data.description;
@@ -81,4 +81,13 @@ document.querySelectorAll(".view-case-study").forEach(button => {
     });
 
 });
+
+function closeModal() {
+    const modal = document.getElementById("projectModal");
+    modal.style.display = "none";
+    modal.style.opacity = "0";
+    modal.style.visibility = "hidden";
+    modal.style.zIndex = "-1";
+}
+
 
