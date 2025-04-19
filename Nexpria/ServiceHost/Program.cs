@@ -8,42 +8,56 @@ var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("NexoriaDb");
 
 PortFolioManagementBoostrapper.Configure(builder.Services, connectionString);
-//CommentManagementBootstrapper.Configure(builder.Services, connectionString);
 
-builder.Services.AddTransient<IFileUploader,FileUploader>();
-
+builder.Services.AddTransient<IFileUploader, FileUploader>();
 
 builder.Services.AddRazorPages();
-builder.Services.AddSession(); // اضافه کن
 
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 
+builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
-
-
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 
 app.UseHttpsRedirection();
+app.UseStaticFiles();
+
+app.UseSession();
+
+// Middleware for Admin authentication
+app.Use(async (context, next) =>
+{
+    var path = context.Request.Path.Value?.ToLowerInvariant().TrimEnd('/');
+
+    // فقط وقتی مسیر با /administration شروع می‌کنه و خود صفحه لاگین نیست
+    if (path != null && path.StartsWith("/administration") && path != "/administration/adminpage")
+    {
+        if (context.Session.GetString("AdminAuthenticated") != "true")
+        {
+            context.Response.Redirect("/Administration/AdminPage");
+            return;
+        }
+    }
+
+    await next();
+});
 
 app.UseRouting();
-app.UseSession(); // اضافه کن
-
-
 app.UseAuthorization();
 
-app.MapStaticAssets();
-
-app.MapRazorPages()
-   .WithStaticAssets();
-
+app.MapRazorPages();
 app.MapControllers();
-
 
 app.Run();

@@ -34,15 +34,14 @@ namespace _01_NexoraiQuery.Query
                     Slug = x.Slug,
                 }).FirstOrDefault(x => x.Id == id);
 
+
             if (!string.IsNullOrWhiteSpace(project.Keywords))
             {
                 project.KeywordList = project.Keywords
-                .Split(new[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
-                .Select(k => k.Trim())
-                .ToList();
+                    .Split(new[] { ',', '\n', '\r', ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                    .Select(k => k.Trim())
+                    .ToList();
             }
-
-
 
             if (!string.IsNullOrWhiteSpace(project.Services))
             {

@@ -11,7 +11,6 @@ namespace PortFolioManagement.Application.Contracts.PortFolio
         [Required(ErrorMessage = ValidationMessages.IsRequired)]
         public string Title { get; set; }
 
-        //[Required(ErrorMessage = ValidationMessages.IsRequired)]
         [FileExtentionLimitation(new string[] {".jpeg", ".jpg", ".png"}, ErrorMessage = ValidationMessages.InValidFileFormat)]
         [MaxFileSize( 3 * 1024 * 1024,  ErrorMessage = ValidationMessages.MaxFileSize)]
         public IFormFile Picture { get; set; }
@@ -21,7 +20,7 @@ namespace PortFolioManagement.Application.Contracts.PortFolio
         public string Description { get; set; }
         public string Client { get; set; }
         public string Timeline { get; set; }
-        public string Services { get; set; }
+        public string? Services { get; set; }
         public string Results { get; set; }
 
         [Required(ErrorMessage = ValidationMessages.IsRequired)]

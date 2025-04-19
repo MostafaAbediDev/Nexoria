@@ -51,20 +51,19 @@ document.querySelectorAll(".view-case-study").forEach(button => {
                 }
 
 
-                // تگ‌ها (keywords)
-                const tagsContainer = document.getElementById("modalTags");
-                tagsContainer.innerHTML = "";
-                if (data.keywordList && data.keywordList.length > 0) {
-                    data.keywordList.forEach(tag => {
-                        const tagList = tag.split(/\s*,\s*|\s+/).filter(Boolean);
-                        tagList.forEach(t => {
-                            const span = document.createElement("span");
-                            span.textContent = t;
-                            span.classList.add("tag");
-                            tagsContainer.appendChild(span);
-                        });
-                    });
-                }
+                //const tagsContainer = document.getElementById("modalTags");
+                //tagsContainer.innerHTML = "";
+
+                //if (data.keywordList && data.keywordList.length > 0) {
+                //    data.keywordList.forEach(keyword => {
+                //        const span = document.createElement("span");
+                //        span.className = "tag";
+                //        span.textContent = keyword;
+                //        tagsContainer.appendChild(span);
+                //    });
+                //}
+
+
 
                 // نمایش مدال
                 const modal = document.getElementById("projectModal");
