@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZLKu1TcVnfeEfjKOFzRUtgzdMDE6TzXKHpoRGdiR4bg=",
+  "Hash": "HSP9tJ7FZ9GzoJIA4NSH/qnFznXdtf4adK8wnlNd7WM=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -941,12 +941,12 @@
       "OriginalItemSpec": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\AdminTheme\\assets\\jquery-blockui\\jquery.blockUI.js"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\6m1j0vwkbh-w085jybnot.gz",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\6m1j0vwkbh-rhryyam6jx.gz",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "Theme/assets/css/style#[.{fingerprint=w085jybnot}]?.css.gz",
+      "RelativePath": "Theme/assets/css/style#[.{fingerprint=rhryyam6jx}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -955,8 +955,8 @@
       "RelatedAsset": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\css\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "e6499izar9",
-      "Integrity": "mqHWDUZR9D++7b8NYRSWwr6y8Ox4ErQqqPaP8/xHmCw=",
+      "Fingerprint": "t2383fz7le",
+      "Integrity": "lTAy4caymkYKjT4uEe4lJsac21kPqVrllEPhFD7z6mM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\css\\style.css"
@@ -1928,12 +1928,12 @@
       "OriginalItemSpec": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ServiceHost.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-flfg0jmigg.gz",
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-yf49so67ee.gz",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ServiceHost",
-      "RelativePath": "Theme/assets/js/modal#[.{fingerprint=flfg0jmigg}]?.js.gz",
+      "RelativePath": "Theme/assets/js/modal#[.{fingerprint=yf49so67ee}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1942,8 +1942,8 @@
       "RelatedAsset": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "7uh16c12i1",
-      "Integrity": "cekTRe8l3G6FJsTfbd6Ixr2gLq8vnrEQkUttM2hJg90=",
+      "Fingerprint": "rquf1c1s9p",
+      "Integrity": "nVVwgYUt7WCKGqtwIFKxjmLC/AWjSGHpdCow0trBL9E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js"
@@ -10958,237 +10958,6 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-43-34-pexels-pixabay-531321.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-19-13-43-34-pexels-pixabay-531321#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "iacn8ai8f3",
-      "Integrity": "+i1EhF/IqZx/lm60TPLhwB8VC3wpLa4SjpJ8dycTCwk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-43-34-pexels-pixabay-531321.jpg"
-    },
-    {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-45-21-pexels-guillaume-meurice-1591447.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-19-13-45-21-pexels-guillaume-meurice-1591447#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "cgj2cr9xlt",
-      "Integrity": "/Hb7SPk/ixR7LlUD0/YshWkgIVnuz01bU8DnCynAazQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-45-21-pexels-guillaume-meurice-1591447.jpg"
-    },
-    {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-50-35-john-lee-oMneOBYhJxY-unsplash.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-19-13-50-35-john-lee-oMneOBYhJxY-unsplash#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "a3emhovo09",
-      "Integrity": "Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-50-35-john-lee-oMneOBYhJxY-unsplash.jpg"
-    },
-    {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-51-18-pexels-craig-adderley-1563356.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-19-13-51-18-pexels-craig-adderley-1563356#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "n0gqtis1hj",
-      "Integrity": "aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-51-18-pexels-craig-adderley-1563356.jpg"
-    },
-    {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-58-47-39632.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-19-13-58-47-39632#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "d77o18fcwj",
-      "Integrity": "hxTXap40ksCk11W6dAz1SvpdlXd9S5zoenk48ZTV26s=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-58-47-39632.jpg"
-    },
-    {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-04-52-17520.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-19-14-04-52-17520#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "dgqmb70jv9",
-      "Integrity": "bVaG178xMjwK6snPk+nSWtd5VbOKAThZnlh8ToPvy3Y=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-04-52-17520.jpg"
-    },
-    {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-07-29-7046.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-19-14-07-29-7046#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "e5qrx0pyt4",
-      "Integrity": "Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-07-29-7046.jpg"
-    },
-    {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-08-30-7046.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-19-14-08-30-7046#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "e5qrx0pyt4",
-      "Integrity": "Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-08-30-7046.jpg"
-    },
-    {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-29-19-john-lee-oMneOBYhJxY-unsplash.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-19-14-29-19-john-lee-oMneOBYhJxY-unsplash#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "a3emhovo09",
-      "Integrity": "Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-29-19-john-lee-oMneOBYhJxY-unsplash.jpg"
-    },
-    {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-30-19-7046.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/تجارت الکترونیک/2025-04-19-14-30-19-7046#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "e5qrx0pyt4",
-      "Integrity": "Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-30-19-7046.jpg"
-    },
-    {
-      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-19-13-31-33-pexels-craig-adderley-1563356.jpg",
-      "SourceId": "ServiceHost",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
-      "BasePath": "_content/ServiceHost",
-      "RelativePath": "ProductPicture/هوش مصنوعی/2025-04-19-13-31-33-pexels-craig-adderley-1563356#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "n0gqtis1hj",
-      "Integrity": "aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-19-13-31-33-pexels-craig-adderley-1563356.jpg"
-    },
-    {
       "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\About\\2025-04-12-00-32-42-pexels-pixabay-531321.jpg",
       "SourceId": "ServiceHost",
       "SourceType": "Discovered",
@@ -11397,6 +11166,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-07-12-27-46-51809.jpg"
+    },
+    {
+      "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-20-12-48-13-39660.jpg",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "ProjectPicture/تجارت الکترونیک/2025-04-20-12-48-13-39660#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rnlz5801mx",
+      "Integrity": "mSKpufWA+CTqnv+ydHRUyXmf2keITsN8hMlzNYbmxVc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-20-12-48-13-39660.jpg"
     },
     {
       "Identity": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\هوش مصنوعی\\2025-04-07-12-27-23-17520.jpg",
@@ -11665,8 +11455,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "w085jybnot",
-      "Integrity": "IB0yQQsPey3rAINtv9lDP9RIXUsbdEHXe8hvxUYQJls=",
+      "Fingerprint": "rhryyam6jx",
+      "Integrity": "r2ki4nNmTJ8BdPha0JNAP+7Wnv8xk0UM0G9QlJMMZ3g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Theme\\assets\\css\\style.css"
@@ -11959,8 +11749,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "flfg0jmigg",
-      "Integrity": "DUH+K8Jt89muiODKgvNnDObi1l69ZEi5hn/YHxadxA0=",
+      "Fingerprint": "yf49so67ee",
+      "Integrity": "QmVIhVNvh6OES4zto7cjIbekpF1D3ZKpmVYb8ot8SSs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Theme\\assets\\js\\modal.js"
@@ -81011,908 +80801,6 @@
       ]
     },
     {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-13-43-34-pexels-pixabay-531321.iacn8ai8f3.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-43-34-pexels-pixabay-531321.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1795948"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+i1EhF/IqZx/lm60TPLhwB8VC3wpLa4SjpJ8dycTCwk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:13:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "iacn8ai8f3"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-19-13-43-34-pexels-pixabay-531321.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+i1EhF/IqZx/lm60TPLhwB8VC3wpLa4SjpJ8dycTCwk="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-13-43-34-pexels-pixabay-531321.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-43-34-pexels-pixabay-531321.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1795948"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+i1EhF/IqZx/lm60TPLhwB8VC3wpLa4SjpJ8dycTCwk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:13:34 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+i1EhF/IqZx/lm60TPLhwB8VC3wpLa4SjpJ8dycTCwk="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-13-45-21-pexels-guillaume-meurice-1591447.cgj2cr9xlt.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-45-21-pexels-guillaume-meurice-1591447.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3064047"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/Hb7SPk/ixR7LlUD0/YshWkgIVnuz01bU8DnCynAazQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:15:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "cgj2cr9xlt"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-19-13-45-21-pexels-guillaume-meurice-1591447.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/Hb7SPk/ixR7LlUD0/YshWkgIVnuz01bU8DnCynAazQ="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-13-45-21-pexels-guillaume-meurice-1591447.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-45-21-pexels-guillaume-meurice-1591447.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3064047"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/Hb7SPk/ixR7LlUD0/YshWkgIVnuz01bU8DnCynAazQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:15:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/Hb7SPk/ixR7LlUD0/YshWkgIVnuz01bU8DnCynAazQ="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-13-50-35-john-lee-oMneOBYhJxY-unsplash.a3emhovo09.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-50-35-john-lee-oMneOBYhJxY-unsplash.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5676532"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:20:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "a3emhovo09"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-19-13-50-35-john-lee-oMneOBYhJxY-unsplash.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-13-50-35-john-lee-oMneOBYhJxY-unsplash.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-50-35-john-lee-oMneOBYhJxY-unsplash.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5676532"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:20:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-13-51-18-pexels-craig-adderley-1563356.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-51-18-pexels-craig-adderley-1563356.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6131372"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:21:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-13-51-18-pexels-craig-adderley-1563356.n0gqtis1hj.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-51-18-pexels-craig-adderley-1563356.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6131372"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:21:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "n0gqtis1hj"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-19-13-51-18-pexels-craig-adderley-1563356.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-13-58-47-39632.d77o18fcwj.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-58-47-39632.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "644530"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hxTXap40ksCk11W6dAz1SvpdlXd9S5zoenk48ZTV26s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:28:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "d77o18fcwj"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-19-13-58-47-39632.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hxTXap40ksCk11W6dAz1SvpdlXd9S5zoenk48ZTV26s="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-13-58-47-39632.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-13-58-47-39632.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "644530"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hxTXap40ksCk11W6dAz1SvpdlXd9S5zoenk48ZTV26s=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:28:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hxTXap40ksCk11W6dAz1SvpdlXd9S5zoenk48ZTV26s="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-14-04-52-17520.dgqmb70jv9.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-04-52-17520.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "814524"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bVaG178xMjwK6snPk+nSWtd5VbOKAThZnlh8ToPvy3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:34:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dgqmb70jv9"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-19-14-04-52-17520.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-bVaG178xMjwK6snPk+nSWtd5VbOKAThZnlh8ToPvy3Y="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-14-04-52-17520.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-04-52-17520.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "814524"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"bVaG178xMjwK6snPk+nSWtd5VbOKAThZnlh8ToPvy3Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:34:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-bVaG178xMjwK6snPk+nSWtd5VbOKAThZnlh8ToPvy3Y="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-14-07-29-7046.e5qrx0pyt4.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-07-29-7046.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333081"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:37:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "e5qrx0pyt4"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-19-14-07-29-7046.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-14-07-29-7046.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-07-29-7046.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333081"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:37:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-14-08-30-7046.e5qrx0pyt4.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-08-30-7046.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333081"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:38:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "e5qrx0pyt4"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-19-14-08-30-7046.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-14-08-30-7046.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-08-30-7046.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333081"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:38:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-14-29-19-john-lee-oMneOBYhJxY-unsplash.a3emhovo09.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-29-19-john-lee-oMneOBYhJxY-unsplash.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5676532"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:59:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "a3emhovo09"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-19-14-29-19-john-lee-oMneOBYhJxY-unsplash.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-14-29-19-john-lee-oMneOBYhJxY-unsplash.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-29-19-john-lee-oMneOBYhJxY-unsplash.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5676532"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:59:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Kg6wY6MYTBz7TOUOKgKJ0V+xaHJktqMkkRFx1Wmimro="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-14-30-19-7046.e5qrx0pyt4.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-30-19-7046.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333081"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 10:00:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "e5qrx0pyt4"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/تجارت الکترونیک/2025-04-19-14-30-19-7046.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/تجارت الکترونیک/2025-04-19-14-30-19-7046.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\تجارت الکترونیک\\2025-04-19-14-30-19-7046.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "333081"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 10:00:19 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Io6LxY2cHiFOwp5IndIb8CtK7zDwwdx7mGcfDVZqh+A="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-19-13-31-33-pexels-craig-adderley-1563356.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-19-13-31-33-pexels-craig-adderley-1563356.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6131372"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:01:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y="
-        }
-      ]
-    },
-    {
-      "Route": "ProductPicture/هوش مصنوعی/2025-04-19-13-31-33-pexels-craig-adderley-1563356.n0gqtis1hj.jpg",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProductPicture\\هوش مصنوعی\\2025-04-19-13-31-33-pexels-craig-adderley-1563356.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6131372"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 09:01:33 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "n0gqtis1hj"
-        },
-        {
-          "Name": "label",
-          "Value": "ProductPicture/هوش مصنوعی/2025-04-19-13-31-33-pexels-craig-adderley-1563356.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aWe1DcF8o/TuAn018M8uSt8qZ/pe/lUJi+z8NQVQt1Y="
-        }
-      ]
-    },
-    {
       "Route": "ProjectPicture/About/2025-04-12-00-32-42-pexels-pixabay-531321.iacn8ai8f3.jpg",
       "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\About\\2025-04-12-00-32-42-pexels-pixabay-531321.jpg",
       "Selectors": [],
@@ -82729,6 +81617,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-MuJCQ5uAPD7VagioqVMR/sEPcYs2KD5ccDv4rPdmqk4="
+        }
+      ]
+    },
+    {
+      "Route": "ProjectPicture/تجارت الکترونیک/2025-04-20-12-48-13-39660.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-20-12-48-13-39660.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mSKpufWA+CTqnv+ydHRUyXmf2keITsN8hMlzNYbmxVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 08:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mSKpufWA+CTqnv+ydHRUyXmf2keITsN8hMlzNYbmxVc="
+        }
+      ]
+    },
+    {
+      "Route": "ProjectPicture/تجارت الکترونیک/2025-04-20-12-48-13-39660.rnlz5801mx.jpg",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\ProjectPicture\\تجارت الکترونیک\\2025-04-20-12-48-13-39660.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199002"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mSKpufWA+CTqnv+ydHRUyXmf2keITsN8hMlzNYbmxVc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 20 Apr 2025 08:18:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rnlz5801mx"
+        },
+        {
+          "Name": "label",
+          "Value": "ProjectPicture/تجارت الکترونیک/2025-04-20-12-48-13-39660.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mSKpufWA+CTqnv+ydHRUyXmf2keITsN8hMlzNYbmxVc="
         }
       ]
     },
@@ -84530,12 +83500,12 @@
     },
     {
       "Route": "Theme/assets/css/style.css",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\6m1j0vwkbh-w085jybnot.gz",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\6m1j0vwkbh-rhryyam6jx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000137419266"
+          "Quality": "0.000137381508"
         }
       ],
       "ResponseHeaders": [
@@ -84545,15 +83515,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7276"
+          "Value": "7278"
         },
         {
           "Name": "ETag",
-          "Value": "\"mqHWDUZR9D++7b8NYRSWwr6y8Ox4ErQqqPaP8/xHmCw=\""
+          "Value": "\"lTAy4caymkYKjT4uEe4lJsac21kPqVrllEPhFD7z6mM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:19:15 GMT"
+          "Value": "Mon, 21 Apr 2025 13:15:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -84573,13 +83543,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IB0yQQsPey3rAINtv9lDP9RIXUsbdEHXe8hvxUYQJls=\""
+          "Value": "W/\"r2ki4nNmTJ8BdPha0JNAP+7Wnv8xk0UM0G9QlJMMZ3g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IB0yQQsPey3rAINtv9lDP9RIXUsbdEHXe8hvxUYQJls="
+          "Value": "sha256-r2ki4nNmTJ8BdPha0JNAP+7Wnv8xk0UM0G9QlJMMZ3g="
         }
       ]
     },
@@ -84594,7 +83564,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44746"
+          "Value": "44748"
         },
         {
           "Name": "Content-Type",
@@ -84602,11 +83572,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IB0yQQsPey3rAINtv9lDP9RIXUsbdEHXe8hvxUYQJls=\""
+          "Value": "\"r2ki4nNmTJ8BdPha0JNAP+7Wnv8xk0UM0G9QlJMMZ3g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:19:15 GMT"
+          "Value": "Mon, 21 Apr 2025 13:15:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -84616,13 +83586,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-IB0yQQsPey3rAINtv9lDP9RIXUsbdEHXe8hvxUYQJls="
+          "Value": "sha256-r2ki4nNmTJ8BdPha0JNAP+7Wnv8xk0UM0G9QlJMMZ3g="
         }
       ]
     },
     {
       "Route": "Theme/assets/css/style.css.gz",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\6m1j0vwkbh-w085jybnot.gz",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\6m1j0vwkbh-rhryyam6jx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -84631,7 +83601,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7276"
+          "Value": "7278"
         },
         {
           "Name": "Content-Type",
@@ -84639,11 +83609,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mqHWDUZR9D++7b8NYRSWwr6y8Ox4ErQqqPaP8/xHmCw=\""
+          "Value": "\"lTAy4caymkYKjT4uEe4lJsac21kPqVrllEPhFD7z6mM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:19:15 GMT"
+          "Value": "Mon, 21 Apr 2025 13:15:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -84661,18 +83631,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mqHWDUZR9D++7b8NYRSWwr6y8Ox4ErQqqPaP8/xHmCw="
+          "Value": "sha256-lTAy4caymkYKjT4uEe4lJsac21kPqVrllEPhFD7z6mM="
         }
       ]
     },
     {
-      "Route": "Theme/assets/css/style.w085jybnot.css",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\6m1j0vwkbh-w085jybnot.gz",
+      "Route": "Theme/assets/css/style.rhryyam6jx.css",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\6m1j0vwkbh-rhryyam6jx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000137419266"
+          "Quality": "0.000137381508"
         }
       ],
       "ResponseHeaders": [
@@ -84682,15 +83652,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7276"
+          "Value": "7278"
         },
         {
           "Name": "ETag",
-          "Value": "\"mqHWDUZR9D++7b8NYRSWwr6y8Ox4ErQqqPaP8/xHmCw=\""
+          "Value": "\"lTAy4caymkYKjT4uEe4lJsac21kPqVrllEPhFD7z6mM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:19:15 GMT"
+          "Value": "Mon, 21 Apr 2025 13:15:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -84710,13 +83680,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"IB0yQQsPey3rAINtv9lDP9RIXUsbdEHXe8hvxUYQJls=\""
+          "Value": "W/\"r2ki4nNmTJ8BdPha0JNAP+7Wnv8xk0UM0G9QlJMMZ3g=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "w085jybnot"
+          "Value": "rhryyam6jx"
         },
         {
           "Name": "label",
@@ -84724,12 +83694,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IB0yQQsPey3rAINtv9lDP9RIXUsbdEHXe8hvxUYQJls="
+          "Value": "sha256-r2ki4nNmTJ8BdPha0JNAP+7Wnv8xk0UM0G9QlJMMZ3g="
         }
       ]
     },
     {
-      "Route": "Theme/assets/css/style.w085jybnot.css",
+      "Route": "Theme/assets/css/style.rhryyam6jx.css",
       "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -84739,7 +83709,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "44746"
+          "Value": "44748"
         },
         {
           "Name": "Content-Type",
@@ -84747,11 +83717,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"IB0yQQsPey3rAINtv9lDP9RIXUsbdEHXe8hvxUYQJls=\""
+          "Value": "\"r2ki4nNmTJ8BdPha0JNAP+7Wnv8xk0UM0G9QlJMMZ3g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:19:15 GMT"
+          "Value": "Mon, 21 Apr 2025 13:15:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -84761,7 +83731,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "w085jybnot"
+          "Value": "rhryyam6jx"
         },
         {
           "Name": "label",
@@ -84769,13 +83739,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-IB0yQQsPey3rAINtv9lDP9RIXUsbdEHXe8hvxUYQJls="
+          "Value": "sha256-r2ki4nNmTJ8BdPha0JNAP+7Wnv8xk0UM0G9QlJMMZ3g="
         }
       ]
     },
     {
-      "Route": "Theme/assets/css/style.w085jybnot.css.gz",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\6m1j0vwkbh-w085jybnot.gz",
+      "Route": "Theme/assets/css/style.rhryyam6jx.css.gz",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\6m1j0vwkbh-rhryyam6jx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -84784,7 +83754,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7276"
+          "Value": "7278"
         },
         {
           "Name": "Content-Type",
@@ -84792,11 +83762,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mqHWDUZR9D++7b8NYRSWwr6y8Ox4ErQqqPaP8/xHmCw=\""
+          "Value": "\"lTAy4caymkYKjT4uEe4lJsac21kPqVrllEPhFD7z6mM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 31 Mar 2025 13:19:15 GMT"
+          "Value": "Mon, 21 Apr 2025 13:15:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -84814,7 +83784,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "w085jybnot"
+          "Value": "rhryyam6jx"
         },
         {
           "Name": "label",
@@ -84822,7 +83792,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mqHWDUZR9D++7b8NYRSWwr6y8Ox4ErQqqPaP8/xHmCw="
+          "Value": "sha256-lTAy4caymkYKjT4uEe4lJsac21kPqVrllEPhFD7z6mM="
         }
       ]
     },
@@ -86541,13 +85511,13 @@
       ]
     },
     {
-      "Route": "Theme/assets/js/modal.flfg0jmigg.js",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-flfg0jmigg.gz",
+      "Route": "Theme/assets/js/modal.js",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-yf49so67ee.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000829187396"
+          "Quality": "0.000806451613"
         }
       ],
       "ResponseHeaders": [
@@ -86557,19 +85527,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1205"
+          "Value": "1239"
         },
         {
           "Name": "ETag",
-          "Value": "\"cekTRe8l3G6FJsTfbd6Ixr2gLq8vnrEQkUttM2hJg90=\""
+          "Value": "\"nVVwgYUt7WCKGqtwIFKxjmLC/AWjSGHpdCow0trBL9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 10:07:31 GMT"
+          "Value": "Tue, 22 Apr 2025 06:05:22 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -86585,26 +85555,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DUH+K8Jt89muiODKgvNnDObi1l69ZEi5hn/YHxadxA0=\""
+          "Value": "W/\"QmVIhVNvh6OES4zto7cjIbekpF1D3ZKpmVYb8ot8SSs=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "flfg0jmigg"
-        },
-        {
-          "Name": "label",
-          "Value": "Theme/assets/js/modal.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-DUH+K8Jt89muiODKgvNnDObi1l69ZEi5hn/YHxadxA0="
+          "Value": "sha256-QmVIhVNvh6OES4zto7cjIbekpF1D3ZKpmVYb8ot8SSs="
         }
       ]
     },
     {
-      "Route": "Theme/assets/js/modal.flfg0jmigg.js",
+      "Route": "Theme/assets/js/modal.js",
       "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -86614,7 +85576,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4208"
+          "Value": "4396"
         },
         {
           "Name": "Content-Type",
@@ -86622,11 +85584,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DUH+K8Jt89muiODKgvNnDObi1l69ZEi5hn/YHxadxA0=\""
+          "Value": "\"QmVIhVNvh6OES4zto7cjIbekpF1D3ZKpmVYb8ot8SSs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 10:07:31 GMT"
+          "Value": "Tue, 22 Apr 2025 06:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmVIhVNvh6OES4zto7cjIbekpF1D3ZKpmVYb8ot8SSs="
+        }
+      ]
+    },
+    {
+      "Route": "Theme/assets/js/modal.js.gz",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-yf49so67ee.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1239"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nVVwgYUt7WCKGqtwIFKxjmLC/AWjSGHpdCow0trBL9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 06:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nVVwgYUt7WCKGqtwIFKxjmLC/AWjSGHpdCow0trBL9E="
+        }
+      ]
+    },
+    {
+      "Route": "Theme/assets/js/modal.yf49so67ee.js",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-yf49so67ee.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000806451613"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1239"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nVVwgYUt7WCKGqtwIFKxjmLC/AWjSGHpdCow0trBL9E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 06:05:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"QmVIhVNvh6OES4zto7cjIbekpF1D3ZKpmVYb8ot8SSs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yf49so67ee"
+        },
+        {
+          "Name": "label",
+          "Value": "Theme/assets/js/modal.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QmVIhVNvh6OES4zto7cjIbekpF1D3ZKpmVYb8ot8SSs="
+        }
+      ]
+    },
+    {
+      "Route": "Theme/assets/js/modal.yf49so67ee.js",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QmVIhVNvh6OES4zto7cjIbekpF1D3ZKpmVYb8ot8SSs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 06:05:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86636,7 +85743,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "flfg0jmigg"
+          "Value": "yf49so67ee"
         },
         {
           "Name": "label",
@@ -86644,13 +85751,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DUH+K8Jt89muiODKgvNnDObi1l69ZEi5hn/YHxadxA0="
+          "Value": "sha256-QmVIhVNvh6OES4zto7cjIbekpF1D3ZKpmVYb8ot8SSs="
         }
       ]
     },
     {
-      "Route": "Theme/assets/js/modal.flfg0jmigg.js.gz",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-flfg0jmigg.gz",
+      "Route": "Theme/assets/js/modal.yf49so67ee.js.gz",
+      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-yf49so67ee.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -86659,7 +85766,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1205"
+          "Value": "1239"
         },
         {
           "Name": "Content-Type",
@@ -86667,11 +85774,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cekTRe8l3G6FJsTfbd6Ixr2gLq8vnrEQkUttM2hJg90=\""
+          "Value": "\"nVVwgYUt7WCKGqtwIFKxjmLC/AWjSGHpdCow0trBL9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 10:07:31 GMT"
+          "Value": "Tue, 22 Apr 2025 06:05:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86689,7 +85796,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "flfg0jmigg"
+          "Value": "yf49so67ee"
         },
         {
           "Name": "label",
@@ -86697,144 +85804,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cekTRe8l3G6FJsTfbd6Ixr2gLq8vnrEQkUttM2hJg90="
-        }
-      ]
-    },
-    {
-      "Route": "Theme/assets/js/modal.js",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-flfg0jmigg.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000829187396"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1205"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cekTRe8l3G6FJsTfbd6Ixr2gLq8vnrEQkUttM2hJg90=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 10:07:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"DUH+K8Jt89muiODKgvNnDObi1l69ZEi5hn/YHxadxA0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DUH+K8Jt89muiODKgvNnDObi1l69ZEi5hn/YHxadxA0="
-        }
-      ]
-    },
-    {
-      "Route": "Theme/assets/js/modal.js",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4208"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"DUH+K8Jt89muiODKgvNnDObi1l69ZEi5hn/YHxadxA0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 10:07:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-DUH+K8Jt89muiODKgvNnDObi1l69ZEi5hn/YHxadxA0="
-        }
-      ]
-    },
-    {
-      "Route": "Theme/assets/js/modal.js.gz",
-      "AssetFile": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\obj\\Debug\\net9.0\\compressed\\eejoz4n4tr-flfg0jmigg.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1205"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"cekTRe8l3G6FJsTfbd6Ixr2gLq8vnrEQkUttM2hJg90=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 19 Apr 2025 10:07:31 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-cekTRe8l3G6FJsTfbd6Ixr2gLq8vnrEQkUttM2hJg90="
+          "Value": "sha256-nVVwgYUt7WCKGqtwIFKxjmLC/AWjSGHpdCow0trBL9E="
         }
       ]
     },

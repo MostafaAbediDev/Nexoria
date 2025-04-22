@@ -38,7 +38,7 @@ namespace _01_NexoraiQuery.Query
             if (!string.IsNullOrWhiteSpace(project.Keywords))
             {
                 project.KeywordList = project.Keywords
-                    .Split(new[] { ',', '\n', '\r', ' ' }, StringSplitOptions.RemoveEmptyEntries)
+                    .Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries)
                     .Select(k => k.Trim())
                     .ToList();
             }
@@ -47,7 +47,7 @@ namespace _01_NexoraiQuery.Query
             {
                 project.ServiceList = project.Services
                     .Split(',', StringSplitOptions.RemoveEmptyEntries)
-                    .Select(k => k.Trim()) // حذف فاصله‌های اضافه
+                    .Select(k => k.Trim())
                     .ToList();
             }
 

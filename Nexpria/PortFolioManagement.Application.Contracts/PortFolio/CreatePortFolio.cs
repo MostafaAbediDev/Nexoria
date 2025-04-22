@@ -13,9 +13,9 @@ namespace PortFolioManagement.Application.Contracts.PortFolio
 
         [FileExtentionLimitation(new string[] {".jpeg", ".jpg", ".png"}, ErrorMessage = ValidationMessages.InValidFileFormat)]
         [MaxFileSize( 3 * 1024 * 1024,  ErrorMessage = ValidationMessages.MaxFileSize)]
-        public IFormFile Picture { get; set; }
-        public string PictureAlt { get; set; }
-        public string PictureTitle { get; set; }
+        public IFormFile? Picture { get; set; }
+        public string? PictureAlt { get; set; }
+        public string? PictureTitle { get; set; }
         public string ShortDescription { get; set; }
         public string Description { get; set; }
         public string Client { get; set; }

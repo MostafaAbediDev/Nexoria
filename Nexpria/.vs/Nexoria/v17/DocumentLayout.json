@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Nexoria\\Code\\Nexpria\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\wwwroot\\theme\\assets\\js\\modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\wwwroot\\theme\\assets\\js\\modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91FAF466-5DA4-4336-A4D2-257E22F3219E}|01_NexoraiQuery\\01_NexoraiQuery.csproj|d:\\nexoria\\code\\nexpria\\01_nexoraiquery\\query\\projectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91FAF466-5DA4-4336-A4D2-257E22F3219E}|01_NexoraiQuery\\01_NexoraiQuery.csproj|solutionrelative:01_nexoraiquery\\query\\projectquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|d:\\nexoria\\code\\nexpria\\servicehost\\areas\\administration\\pages\\portfolio\\portfolios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0CCEADD8-C86D-4F44-91D3-9075C29CFAD3}|ServiceHost\\ServiceHost.csproj|solutionrelative:servicehost\\areas\\administration\\pages\\portfolio\\portfolios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,45 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProjectQuery.cs",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\01_NexoraiQuery\\Query\\ProjectQuery.cs",
-              "RelativeDocumentMoniker": "01_NexoraiQuery\\Query\\ProjectQuery.cs",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\01_NexoraiQuery\\Query\\ProjectQuery.cs",
-              "RelativeToolTip": "01_NexoraiQuery\\Query\\ProjectQuery.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T09:29:53.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolios\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolios\\Edit.cshtml",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolios\\Edit.cshtml",
-              "RelativeToolTip": "ServiceHost\\Areas\\Administration\\Pages\\PortFolio\\PortFolios\\Edit.cshtml",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAAAFkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T09:27:36.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "modal.js",
-              "DocumentMoniker": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
-              "RelativeDocumentMoniker": "ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
-              "ToolTip": "D:\\Nexoria\\Code\\Nexpria\\ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
-              "RelativeToolTip": "ServiceHost\\wwwroot\\Theme\\assets\\js\\modal.js",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-19T09:23:34.338Z",
-              "EditorCaption": ""
             }
           ]
         }

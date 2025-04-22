@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PortFolioManagement.Application.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47453cca49aa0c0dcd6629e92e844622e9dfa0b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6e8382b6ef57166306b1373fea2a5df298cfd85")]
 [assembly: System.Reflection.AssemblyProductAttribute("PortFolioManagement.Application.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PortFolioManagement.Application.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

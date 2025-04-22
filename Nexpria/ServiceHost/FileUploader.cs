@@ -16,7 +16,7 @@ namespace ServiceHost
         {
             if (file == null) return "";
 
-            var directoryPath = $"{_webHostEnvironment.WebRootPath}//ProductPicture//{path}";
+            var directoryPath = $"{_webHostEnvironment.WebRootPath}//ProjectPicture//{path}";
 
             if (!Directory.Exists(directoryPath))
                 Directory.CreateDirectory(directoryPath);
